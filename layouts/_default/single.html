@@ -2,6 +2,17 @@
 <article>
   <header>
     <h2>{{- .Title -}}</h2>
+    {{ if .Params.rating }}
+      <strong>Rating</strong>
+      {{ range seq $.Params.rating }}
+        ⭐
+      {{ end }}
+      {{ if lt .Params.rating 5 }}
+        {{ range seq $.Params.rating 4 }}
+          <span style="filter: grayscale(1)">⭐</span>
+        {{ end }}
+      {{ end }}
+    {{ end }}
   </header>
   <div>
     {{- .Content -}}
