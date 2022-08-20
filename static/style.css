@@ -1,0 +1,136 @@
+:root {
+  --title-font-family: 'Merriweather';
+  --title-font-weight: 700;
+  --title-font-line-height: 80px;
+  --title-font-size: 64px;
+  --title-font-letter-spacing: -0.04em;
+
+  --h2-font-family: 'Merriweather';
+  --h2-font-weight: 700;
+  --h2-font-line-height: 50px;
+  --h2-font-size: 40px;
+  --h2-font-letter-spacing: -0.02em;
+
+  --subtitle-font-family: 'Rufina';
+  --subtitle-font-weight: 700;
+  --subtitle-font-line-height: 30px;
+  --subtitle-font-size: 24px;
+  --subtitle-font-letter-spacing: -0.02em;
+
+  --body-font-family: 'Inika';
+  --body-font-weight: 400;
+  --body-font-line-height: 26px;
+  --body-font-size: 16px;
+  --body-font-letter-spacing: 0.04em;
+
+  --caption-font-family: 'Inika';
+  --caption-font-weight: 400;
+  --caption-font-line-height: 12px;
+  --caption-font-size: 10px;
+  --caption-font-letter-spacing: 0.05em;
+
+  --button-font-family: 'Inika';
+  --button-font-weight: 700;
+  --button-font-line-height: 26px;
+  --button-primary-font-size: 16px;
+  --button-large-font-size: 24px;
+  --button-font-letter-spacing: 0.1em;
+
+  --numbers-font-family: 'Monaco';
+  --numbers-font-weight: 400;
+  --numbers-font-line-height: 12px;
+  --numbers-font-size: 16px;
+  --numbers-font-letter-spacing: -0.02em;
+
+  --color-primary: #FFFFFF;
+  --color-secondary: #110F12;
+  --color-accent: #D2002E;
+  --color-light-background: #f2f2f2;
+  --color-dark-background: #333;
+  --color-link: #2F7BD5;
+  font-size: var(--body-font-size);
+}
+
+* {
+  box-sizing: border-box;
+}
+html, body, p, section, header, article {
+  font-family: var(--body-font-family);
+  font-weight: var(--body-font-weight);
+  line-height: var(--body-font-line-height);
+  letter-spacing: var(--body-font-letter-spacing);
+}
+html, body {
+  background: var(--color-light-background);
+  color: var(--color-secondary);
+  width: 100vw;
+  min-height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.title, h1 {
+  font-family: var(--title-font-family);
+  font-weight: var(--title-font-weight);
+  line-height: var(--title-font-line-height);
+  font-size: var(--title-font-size);
+  letter-spacing: var(--title-font-letter-spacing);
+  margin: 0;
+  padding: 0;
+}
+.h2, h2 {
+  font-family: var(--h2-font-family);
+  font-weight: var(--h2-font-weight);
+  line-height: var(--h2-font-line-height);
+  font-size: var(--h2-font-size);
+  letter-spacing: var(--h2-font-letter-spacing);
+  margin: 0;
+  padding: 0;
+}
+.subtitle, h3, h4, h5, h6 {
+  font-family: var(--subtitle-font-family);
+  font-weight: var(--subtitle-font-weight);
+  line-height: var(--subtitle-font-line-height);
+  font-size: var(--subtitle-font-size);
+  letter-spacing: var(--subtitle-font-letter-spacing);
+  margin: 0;
+  padding: 0;
+}
+.caption {
+  font-family: var(--caption-font-family);
+  font-weight: var(--caption-font-weight);
+  line-height: var(--caption-font-line-height);
+  font-size: var(--caption-font-size);
+  letter-spacing: var(--caption-font-letter-spacing);
+}
+.numbers {
+  font-family: var(--numbers-font-family);
+  font-weight: var(--numbers-font-weight);
+  line-height: var(--numbers-font-line-height);
+  font-size: var(--numbers-font-size);
+  letter-spacing: var(--numbers-font-letter-spacing);
+}
+
+.button {
+  font-family: var(--button-font-family);
+  font-weight: var(--button-font-weight);
+  line-height: var(--button-font-line-height);
+  font-size: var(--button-primary-font-size);
+  letter-spacing: var(--button-font-letter-spacing);
+}
+.button\:large {
+  font-size: var(--button-large-font-size);
+}
+a {
+  color: var(--color-link)
+}
+
+.color\:accent {
+  color: var(--color-accent);
+}
+.color\:invert {
+  color: var(--color-primary);
+}
+.bg\:secondary {
+  background: var(--color-secondary);
+}

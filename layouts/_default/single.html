@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article>
   <header>
-    <h2>{{- .Title -}}</h2>
+    <h1>{{- .Title -}}</h1>
     {{ if .Params.rating }}
       <strong>Rating</strong>
       {{ range seq $.Params.rating }}
