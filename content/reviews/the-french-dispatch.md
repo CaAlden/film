@@ -3,6 +3,8 @@ title: "The French Dispatch"
 date: 2022-08-17T17:18:04+09:00
 draft: false
 rating: 5
+imdb: 7.2
+image: https://m.media-amazon.com/images/M/MV5BNmQxZTNiODYtNzBhYy00MzVlLWJlN2UtNTc4YWZjMDIwMmEzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg
 summary: "A new film from Wes Anderson styled after a magazine"
 ---
 

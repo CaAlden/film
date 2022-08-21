@@ -1,12 +1,26 @@
-<div>
-  <div>
-    <h2>
-      <a href="{{ .RelPermalink }}">
-        {{ .Title }}
-      </a>
-    </h2>
+<div class="card">
+  <div class="card-image">
+    <img class="card-image" src={{ .Params.image }} />
+  </div>
+  <section class="card-content">
+    <header>
+      <h3 class="subtitle">
+          {{ .Title }}
+        </a>
+      </h3>
+    </header>
     <div>
       {{ .Summary }}
+    </div>
+    <div class="cluster spacing:between">
+      <div class="cluster s1 align:center">
+        <img src="{{site.BaseURL}}imdb-logo-small.png" class="icon">
+        <span class="numbers">{{- .Params.imdb -}}</span>
+      </div>
+      <div>
+        <a class="button" href="{{ .RelPermalink }}">
+          Read review
+        </a>
     </div>
   </div>
 </div>

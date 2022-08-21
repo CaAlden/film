@@ -122,7 +122,6 @@ button, .button {
 
   background: transparent;
   /* inherit font & color from ancestor */
-  color: inherit;
   font: inherit;
 
   /* Corrects font smoothing for webkit */
@@ -180,4 +179,29 @@ a:hover {
   padding: 20px;
   background: var(--color-secondary);
   color: var(--color-primary);
+}
+
+.cluster {
+  display: flex;
+}
+.spacing\:between {
+  justify-content: space-between;
+}
+.align\:center {
+  align-items: center;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.s1 {
+  gap: 10px;
+}
+
+.p1 {
+  padding: 10px;
 }

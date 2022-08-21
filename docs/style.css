@@ -181,3 +181,10 @@ a:hover {
   background: var(--color-secondary);
   color: var(--color-primary);
 }
+
+.s1 {
+  gap: 10px;
+}
+.s2 {
+  gap: 20px;
+}

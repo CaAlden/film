@@ -2,6 +2,9 @@
 <article>
   <header>
     <h1>{{- .Title -}}</h1>
+    {{ if .Params.image }}
+      <img src={{.Params.image}} alt="Poster">
+    {{ end }}
     {{ if .Params.rating }}
       <strong>Rating</strong>
       {{ range seq $.Params.rating }}

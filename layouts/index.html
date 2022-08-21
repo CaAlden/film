@@ -2,9 +2,11 @@
   <div>
     {{ .Content }}
   </div>
-  <div>
-    {{ range first 10 .Site.RegularPages }}
-      {{ .Render "summary"}}
+  <div class="cluster s1">
+    {{ range (where .Site.Pages "Section" "reviews") }}
+       {{ range .Pages }}
+          {{ .Render "summary" }}
+       {{ end }}
     {{ end }}
   </div>
 {{end}}
