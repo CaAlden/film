@@ -1,0 +1,46 @@
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background: var(--color-primary);
+  aspect-ratio: 2 / 3;
+  max-width: 250px;
+  max-height: 380px;
+  padding: 10px;
+}
+
+.card .card-content {
+  flex-basis: 0.0001%;
+}
+.card .card-image {
+  flex-basis: 99.9999%;
+}
+
+.card:hover .card-content {
+  flex-basis: 50%;
+  padding-top: 10px;
+}
+.card:hover .card-image {
+  flex-basis: 50%;
+}
+
+.card-content {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: space-between;
+  transition: flex-basis 250ms ease-out;
+}
+
+.card-image {
+  transition: flex-basis 250ms ease-out;
+  flex-grow: 1;
+  flex-basis: 100%;
+  object-fit: cover;
+  display: flex;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
