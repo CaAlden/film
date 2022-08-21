@@ -111,18 +111,41 @@ html, body {
   letter-spacing: var(--numbers-font-letter-spacing);
 }
 
-.button {
+button, .button {
+  border: none;
+  margin: 0;
+  padding: 0;
+  width: auto;
+  overflow: visible;
+  text-align: inherit;
+  outline: none;
+
+  background: transparent;
+  /* inherit font & color from ancestor */
+  color: inherit;
+  font: inherit;
+
+  /* Corrects font smoothing for webkit */
+  -webkit-font-smoothing: inherit;
+  -moz-osx-font-smoothing: inherit;
+
+  /* Corrects inability to style clickable `input` types in iOS */
+  -webkit-appearance: none;
   font-family: var(--button-font-family);
   font-weight: var(--button-font-weight);
   line-height: var(--button-font-line-height);
   font-size: var(--button-primary-font-size);
   letter-spacing: var(--button-font-letter-spacing);
+  text-transform: uppercase;
 }
 .button\:large {
   font-size: var(--button-large-font-size);
 }
 a {
-  color: var(--color-link)
+  color: var(--color-link);
+}
+a:hover {
+  color: var(--color-accent);
 }
 
 .color\:accent {
@@ -133,4 +156,28 @@ a {
 }
 .bg\:secondary {
   background: var(--color-secondary);
+}
+.navbar {
+  display: flex;
+}
+.navbar-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 30px;
+}
+.navbar-item {
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: var(--color-secondary);
+  color: var(--color-primary);
 }
