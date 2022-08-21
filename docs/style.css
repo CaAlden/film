@@ -1,42 +1,42 @@
 :root {
-  --title-font-family: 'Merriweather';
+  --title-font-family: 'Merriweather', serif;
   --title-font-weight: 700;
   --title-font-line-height: 80px;
   --title-font-size: 64px;
   --title-font-letter-spacing: -0.04em;
 
-  --h2-font-family: 'Merriweather';
+  --h2-font-family: 'Merriweather', serif;
   --h2-font-weight: 700;
   --h2-font-line-height: 50px;
   --h2-font-size: 40px;
   --h2-font-letter-spacing: -0.02em;
 
-  --subtitle-font-family: 'Rufina';
+  --subtitle-font-family: 'Rufina', serif;
   --subtitle-font-weight: 700;
   --subtitle-font-line-height: 30px;
   --subtitle-font-size: 24px;
   --subtitle-font-letter-spacing: -0.02em;
 
-  --body-font-family: 'Inika';
+  --body-font-family: 'Inika', serif;
   --body-font-weight: 400;
   --body-font-line-height: 26px;
   --body-font-size: 16px;
   --body-font-letter-spacing: 0.04em;
 
-  --caption-font-family: 'Inika';
+  --caption-font-family: 'Inika', serif;
   --caption-font-weight: 400;
   --caption-font-line-height: 12px;
   --caption-font-size: 10px;
   --caption-font-letter-spacing: 0.05em;
 
-  --button-font-family: 'Inika';
+  --button-font-family: 'Inika', serif;
   --button-font-weight: 700;
   --button-font-line-height: 26px;
   --button-primary-font-size: 16px;
   --button-large-font-size: 24px;
   --button-font-letter-spacing: 0.1em;
 
-  --numbers-font-family: 'Monaco';
+  --numbers-font-family: 'Monaco', sans-serif;
   --numbers-font-weight: 400;
   --numbers-font-line-height: 12px;
   --numbers-font-size: 16px;
