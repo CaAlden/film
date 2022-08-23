@@ -1,1 +1,5 @@
-This site is under construction but will eventually host my movie comments and reviews!
+---
+title: "CaAlden: Films"
+description: A blog about movies and my opinions of them
+---
+This site is under construction. Please excuse the mess.

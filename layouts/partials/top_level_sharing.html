@@ -1,0 +1,22 @@
+<meta property="og:title" content="{{ .Title }}" />
+{{ if eq .Section "reviews" }}
+<meta property="og:type" content="article" />
+<meta property="og:description" content={{.Summary}}>
+{{ else }}
+  {{ if .Params.description }}
+  <meta property="og:description" content="{{.Params.description}}">
+  {{ end }}
+<meta property="og:type" content="website" />
+{{ end }}
+<meta property="og:url" content="{{ .Permalink }}" />
+{{ if .Params.image }}
+<meta property="og:image" content="{{.Params.image}}" />
+<meta property="twitter:card" content="summary">
+{{end}}
+{{ if eq .Section "reviews" }}
+<meta property="og:image:alt" content="Movie Poster for {{ .Title }}">
+<meta property="og:article:author" content="Campbell Alden">
+<meta property="og:article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}">
+<meta property="twitter:label1" content="Rating">
+<meta property="twitter:data1" content="{{.Params.rating}}/5">
+{{end}}
