@@ -10,7 +10,7 @@
       </h3>
     </header>
     <div>
-      {{ .Summary }}
+      {{ .Summary | truncate 70 "..." }}
     </div>
     <div class="cluster spacing:between">
       <div class="cluster s1 align:center">

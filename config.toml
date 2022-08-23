@@ -1,3 +1,7 @@
 baseURL = 'https://caalden.github.io/film/'
 languageCode = 'en-us'
 title = 'CaAlden: Films'
+[taxonomies]
+  category = 'categories'
+  genre = 'genres'
+  tag = 'tags'
