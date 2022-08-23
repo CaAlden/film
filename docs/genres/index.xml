@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genres on CaAlden: Films</title>
+    <link>https://caalden.github.io/film/genres/</link>
+    <description>Recent content in Genres on CaAlden: Films</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Aug 2022 17:18:04 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comedy</title>
+      <link>https://caalden.github.io/film/genres/comedy/</link>
+      <pubDate>Wed, 17 Aug 2022 17:18:04 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/genres/comedy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drama</title>
+      <link>https://caalden.github.io/film/genres/drama/</link>
+      <pubDate>Wed, 17 Aug 2022 17:18:04 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/genres/drama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Romance</title>
+      <link>https://caalden.github.io/film/genres/romance/</link>
+      <pubDate>Wed, 17 Aug 2022 17:18:04 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/genres/romance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
