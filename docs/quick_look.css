@@ -1,0 +1,38 @@
+.quicklook {
+  max-width: 600px;
+  flex-basis: 600px;
+  border-radius: 16px;
+  background: #F4C2CD;
+  color: #702E2E;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.quicklook-emphasized-color {
+  color: #3D292D !important ;
+}
+
+.quicklook-details {
+  display: flex;
+  gap: 30px;
+}
+
+.quicklook-rating {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 0;
+}
+
+.quicklook-genre-section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-grow: 1;
+}
+
+.quicklook-genre {
+  text-transform: uppercase;
+  font-weight: bold;
+}
