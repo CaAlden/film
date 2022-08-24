@@ -22,11 +22,11 @@
 }
 
 .card:hover .card-content {
-  flex-basis: 60%;
+  flex-basis: 50%;
   padding-top: 10px;
 }
 .card:hover .card-image {
-  flex-basis: 40%;
+  flex-basis: 50%;
 }
 
 .card-content {
