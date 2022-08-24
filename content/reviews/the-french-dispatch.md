@@ -30,7 +30,7 @@ I really enjoyed how the dynamic between the artist prisoner character (Benicio 
 
 ### The Art
 
-Another moment I enjoyed was the discussion about modern art. There's a funny commentary on the idea that "a third grader could have made this", wherein they discuss his arts validity and make the claim that because he has techinical prowess (the ability to draw a realistic picture of a bird) his more modern style is somehow valid. The sort of mental gymnastics that the art collectors go through to justify why the art is the next best thing works as a commentary on art in general in a way I liked.
+Another moment I enjoyed was the discussion about modern art. There's a funny commentary on the idea that "a third grader could have made this", wherein they discuss his arts validity and make the claim that because he has technical prowess (the ability to draw a realistic picture of a bird) his more modern style is somehow valid. The sort of mental gymnastics that the art collectors go through to justify why the art is the next best thing works as a commentary on art in general in a way I liked.
 
 ### The Revolutionary Students
 
@@ -38,8 +38,8 @@ I have quite a soft spot for chess, so the sections of the magazine following th
 
 ### The Dinner Party Kidnapping
 
-I felt the storyline where the author recounts the dinner party kidnapping was honestly the weakest part of the film. For me it's a combination of not really liking that cartoon style (and this is partially why I haven't made it through Isle of Dogs yet dispite that on the surface seeming like a perfect fit for me.) The other issue I have with it was pointed out in a review I read, which I will paraphrase as being too many layers deep.
+I felt the storyline where the author recounts the dinner party kidnapping was honestly the weakest part of the film. For me it's a combination of not really liking that cartoon style (and this is partially why I haven't made it through Isle of Dogs yet despite that on the surface seeming like a perfect fit for me.) The other issue I have with it was pointed out in a review I read, which I will paraphrase as being too many layers deep.
 
 The story is told in the setting of a section of the magazine, but in retrospective as spoken by the author on the set of a talk show. Then we have the actual story which has aspects of live action and cartoon. The cartoon scenes feel nested within the live action for a total depth 4 levels removed from the viewer. It just makes things a little difficult to follow. That style of storytelling can work: I loved _If on a Winter's Night a Traveler_ by _Italio Calvino_ which relies heavily on this nesting of view points, but the first chapter of that book is incredibly jarring as you get accustomed to the style.
 
-I think because this section stands alone and is tonally different from the rest of the movie, you don't have time to get over that jarring feeling to orient yourself. I think as a stand alone short it might work, and it's just it's presence in this larger narrative that makes it feel especially awkard tonally. For me, this discordance is the main reason I feel this movie is more of a 4/5 than a perfect 5/7.
+I think because this section stands alone and is tonally different from the rest of the movie, you don't have time to get over that jarring feeling to orient yourself. I think as a stand alone short it might work, and it's just it's presence in this larger narrative that makes it feel especially awkward tonally. For me, this discordance is the main reason I feel this movie is more of a 4/5 than a perfect 5/7.
