@@ -9,8 +9,8 @@
         </a>
       </h3>
     </header>
-    <div>
-      {{ .Summary | truncate 70 "..." }}
+    <div style="text-align: justify;">
+      {{- .Summary | truncate 80 "..." -}}
     </div>
     <div class="cluster spacing:between">
       <div class="cluster s1 align:center">
