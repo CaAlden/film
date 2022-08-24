@@ -4,9 +4,8 @@
   </div>
   <section class="card-content">
     <header>
-      <h3 class="subtitle">
-          {{ .Title }}
-        </a>
+      <h3 class="subtitle{{if gt (len .Title) 20 }} card-title-long{{end}}">
+          {{- .Title | truncate 50 "..." -}}
       </h3>
     </header>
     <div style="text-align: justify;">

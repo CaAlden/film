@@ -5,9 +5,13 @@
   border-radius: 10px;
   background: var(--color-primary);
   aspect-ratio: 2 / 3;
-  max-width: 250px;
+  width: 280px;
   max-height: 380px;
   padding: 10px;
+}
+
+.card-title-long {
+  font-size: 20px !important;
 }
 
 .card .card-content {
@@ -18,11 +22,11 @@
 }
 
 .card:hover .card-content {
-  flex-basis: 50%;
+  flex-basis: 60%;
   padding-top: 10px;
 }
 .card:hover .card-image {
-  flex-basis: 50%;
+  flex-basis: 40%;
 }
 
 .card-content {

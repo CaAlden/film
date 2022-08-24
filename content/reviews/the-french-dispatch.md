@@ -1,5 +1,5 @@
 ---
-title: "The French Dispatch"
+title: The French Dispatch
 date: 2022-08-17T17:18:04+09:00
 draft: false
 rating: 4
