@@ -2,20 +2,6 @@
 <article>
   <header>
     <h1>{{- .Title -}}</h1>
-    {{ if .Params.image }}
-      <img src={{.Params.image}} alt="Poster">
-    {{ end }}
-    {{ if .Params.rating }}
-      <strong>Rating</strong>
-      {{ range seq $.Params.rating }}
-        ⭐
-      {{ end }}
-      {{ if lt .Params.rating 5 }}
-        {{ range seq $.Params.rating 4 }}
-          <span style="filter: grayscale(1)">⭐</span>
-        {{ end }}
-      {{ end }}
-    {{ end }}
   </header>
   <div>
     {{- .Content -}}

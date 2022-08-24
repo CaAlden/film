@@ -40,6 +40,7 @@
   --numbers-font-weight: 400;
   --numbers-font-line-height: 12px;
   --numbers-font-size: 16px;
+  --numbers-font-size-large: 40px;
   --numbers-font-letter-spacing: -0.02em;
 
   --color-primary: #FFFFFF;
@@ -108,6 +109,13 @@ html, body {
   font-weight: var(--numbers-font-weight);
   line-height: var(--numbers-font-line-height);
   font-size: var(--numbers-font-size);
+  letter-spacing: var(--numbers-font-letter-spacing);
+}
+.numbers-large {
+  font-family: var(--numbers-font-family);
+  font-weight: var(--numbers-font-weight);
+  line-height: var(--numbers-font-line-height);
+  font-size: var(--numbers-font-size-large);
   letter-spacing: var(--numbers-font-letter-spacing);
 }
 
@@ -203,5 +211,4 @@ a:hover {
 }
 
 .p1 {
-  padding: 10px;
-}
+  padding: 10px;2}

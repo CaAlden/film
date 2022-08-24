@@ -1,0 +1,26 @@
+<section class="quicklook">
+  <header>
+    <h2 class="subtitle quicklook-emphasized-color">
+      Quick Look
+    </h2>
+  </header>
+  <div class="quicklook-details">
+    <div class="quicklook-rating">
+      <span class="caption">Rating</span>
+      <span class="numbers-large quicklook-emphasized-color">{{- .Params.rating -}}/5</span>
+    </div>
+    <div class="quicklook-genre-section">
+      <span class="caption">Genre</span>
+      <div>
+        {{ range $name := .Params.genres }}
+          <span class="quicklook-emphasized-color quicklook-genre">{{$name}}</span>
+        {{end}}
+      </div>
+    </div>
+  </div>
+  <p>
+    {{.Params.quick_look}}
+  </p>
+</section>
+
+</section>
