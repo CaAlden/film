@@ -32,16 +32,3 @@
   object-fit: cover;
 }
 
-.core-review {
-  margin: 30px 10px;
-}
-.core-review p {
-  margin-bottom: 20px;
-  text-indent: 4ch;
-  padding: 10px;
-}
-
-.core-review h2, .core-review h3 {
-  margin-top: 30px;
-  margin-bottom: 10px;
-}

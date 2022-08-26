@@ -212,3 +212,17 @@ a:hover {
   padding: 10px;
 }
 
+.core-content {
+  margin: 30px 10px;
+}
+
+.core-content p {
+  margin-bottom: 20px;
+  text-indent: 4ch;
+  padding: 0 10px;
+}
+
+.core-content h2, .core-content h3 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
