@@ -7,6 +7,9 @@
       </div>
     {{ end }}
     <h1>{{- .Title -}}</h1>
+    <h3 class="subtitle-small color:deemphasize" style="margin-top: -30px">
+      {{- .PublishDate.Format "August 2, 2006" -}}
+    </h3>
     {{ partial "quicklook.html" . }}
   </header>
   <div class="core-content">
