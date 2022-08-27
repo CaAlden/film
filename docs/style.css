@@ -17,6 +17,12 @@
   --subtitle-font-size: 24px;
   --subtitle-font-letter-spacing: -0.02em;
 
+  --subtitle-small-font-family: 'Rufina', serif;
+  --subtitle-small-font-weight: 400;
+  --subtitle-small-line-height: 1.25;
+  --subtitle-small-font-size: 20px;
+  --subtitle-small-font-letter-spacing: -0.02em;
+
   --body-font-family: 'Inika', serif;
   --body-font-weight: 400;
   --body-font-line-height: 1.625;
@@ -49,6 +55,7 @@
   --color-light-background: #f2f2f2;
   --color-dark-background: #333;
   --color-link: #2F7BD5;
+  --color-deemphasize: #707070;
   font-size: var(--body-font-size);
 }
 
@@ -103,6 +110,14 @@ main {
   font-size: var(--subtitle-font-size);
   letter-spacing: var(--subtitle-font-letter-spacing);
 }
+.subtitle-small {
+  font-family: var(--subtitle-small-font-family);
+  font-weight: var(--subtitle-small-font-weight);
+  line-height: var(--subtitle-small-font-line-height);
+  font-size: var(--subtitle-small-font-size);
+  letter-spacing: var(--subtitle-small-font-letter-spacing);
+}
+
 .caption {
   font-family: var(--caption-font-family);
   font-weight: var(--caption-font-weight);
@@ -168,6 +183,9 @@ a:hover {
 }
 .bg\:secondary {
   background: var(--color-secondary);
+}
+.color\:deemphasize {
+  color: var(--color-deemphasize);
 }
 .navbar {
   display: flex;
