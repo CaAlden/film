@@ -11,7 +11,7 @@
     </div>
     <div class="quicklook-genre-section">
       <span class="caption">Genre</span>
-      <div>
+      <div class="quicklook-genre-container">
         {{ range $name := .Params.genres }}
           <span class="quicklook-emphasized-color quicklook-genre">{{$name}}</span>
         {{end}}
