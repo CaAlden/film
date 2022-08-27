@@ -226,3 +226,25 @@ a:hover {
   margin-top: 30px;
   margin-bottom: 10px;
 }
+
+.http-status {
+  font-size: calc(10ch + 10vw);
+  font-family: var(--numbers-font-family);
+  letter-spacing: 5px;
+}
+
+.http-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 0 20px;
+}
+
+.http-page p {
+  text-align: center;
+}
+
+.http-header {
+  margin-top: 10vh;
+}
