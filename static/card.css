@@ -48,3 +48,12 @@
   border-radius: 8px;
 }
 
+@media (prefers-reduced-motion) {
+  .card-content {
+    transition: none;
+  }
+  .card-image {
+    transition: none;
+  }
+}
+
