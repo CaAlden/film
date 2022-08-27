@@ -32,7 +32,7 @@
   --caption-font-family: 'Inika', serif;
   --caption-font-weight: 400;
   --caption-font-line-height: 1.2;
-  --caption-font-size: 10px;
+  --caption-font-size: 12px;
   --caption-font-letter-spacing: 0.05em;
 
   --button-font-family: 'Inika', serif;
@@ -54,8 +54,8 @@
   --color-accent: #D2002E;
   --color-light-background: #f2f2f2;
   --color-dark-background: #333;
-  --color-link: #2F7BD5;
-  --color-deemphasize: #707070;
+  --color-link: #1D4F8C;
+  --color-deemphasize: #4D4D4D;
   font-size: var(--body-font-size);
 }
 
