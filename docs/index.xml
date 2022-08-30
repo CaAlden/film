@@ -6,7 +6,16 @@
     <description>Recent content on CaAlden: Films</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Aug 2022 17:18:04 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Aug 2022 22:31:36 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No Reservations</title>
+      <link>https://caalden.github.io/film/reviews/no-reservations/</link>
+      <pubDate>Sun, 28 Aug 2022 22:31:36 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/reviews/no-reservations/</guid>
+      <description>A NY City chef and her recently adopted niece adapt to their life together</description>
+    </item>
+    
     <item>
       <title>The French Dispatch</title>
       <link>https://caalden.github.io/film/reviews/the-french-dispatch/</link>
