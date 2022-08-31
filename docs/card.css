@@ -6,7 +6,7 @@
   background: var(--color-primary);
   aspect-ratio: 2 / 3;
   flex-basis: 280px;
-  max-width: 300px;
+  max-width: 280px;
   padding: 10px;
 }
 
@@ -21,13 +21,17 @@
   flex-basis: 99.9999%;
 }
 
+.card h3 {
+  margin: 0 !important;
+}
+
 .card:hover .card-content {
-  flex-basis: 50%;
+  flex-basis: 45%;
   transition-delay: 0ms;
   padding-top: 10px;
 }
 .card:hover .card-image {
-  flex-basis: 50%;
+  flex-basis: 55%;
   transition-delay: 0ms;
 }
 
