@@ -1,12 +1,41 @@
 {{ define "main" }}
-  <div>
-    {{ .Content }}
-  </div>
-  <div class="cluster s1">
-    {{ range (where .Site.Pages "Section" "reviews") }}
-       {{ range .Pages }}
-          {{- .Render "summary" -}}
-       {{ end }}
-    {{ end }}
+  <div class="core-content">
+    <section class="home-page-header">
+      <header class="stack s1">
+        <h1 class="subtitle">Movie Recommendations</h1>
+        {{- .Content -}}
+      </header>
+      <div class="search-bar">
+        {{ partial "magnifying_glass.html" }}
+        <input list="movies" name="movie-search" id="movie-search" />
+        <datalist id="movies">
+          {{ range (where .Site.Pages "Section" "reviews") }}
+            {{ range .Pages }}
+              <option value="{{.Title}}" data-value="{{.RelPermalink}}">
+                {{- .Params.summary -}}
+              </option>
+            {{ end }}
+          {{ end }}
+        </datalist>
+        <script src="{{.Site.BaseURL}}search.js" async defer></script>
+      </div>
+      <div class="cluster justify:center s3">
+        <a class="button" href="{{.Site.BaseURL}}genres">Genres</a>
+        <a class="button" href="{{.Site.BaseURL}}a-z">A-Z</a>
+        <a class="button" href="{{.Site.BaseURL}}favorites">Favorites</a>
+      </div>
+    </section>
+    <section class="stack s1">
+      <header>
+        <h2>Recent</h2>
+      </header>
+      <div class="cards">
+        {{ range (where .Site.Pages "Section" "reviews") }}
+           {{ range .Pages }}
+              {{- .Render "summary" -}}
+           {{ end }}
+        {{ end }}
+      </div>
+    </section>
   </div>
 {{end}}

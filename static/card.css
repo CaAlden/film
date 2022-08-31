@@ -5,8 +5,8 @@
   border-radius: 10px;
   background: var(--color-primary);
   aspect-ratio: 2 / 3;
-  width: 280px;
-  max-height: 380px;
+  flex-basis: 280px;
+  max-width: 300px;
   padding: 10px;
 }
 
