@@ -7,6 +7,7 @@
       </header>
       <div class="search-bar">
         {{ partial "magnifying_glass.html" }}
+        <label hidden="hidden" for="movie-search">Search for a movie</label>
         <input list="movies" name="movie-search" id="movie-search" />
         <datalist id="movies">
           {{ range (where .Site.Pages "Section" "reviews") }}
