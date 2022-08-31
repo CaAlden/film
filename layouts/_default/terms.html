@@ -1,0 +1,21 @@
+{{ define "main"}}
+  <section>
+    <header style="margin-bottom: 30px;">
+      <h1>{{.Title}}</h1>
+    </header>
+
+    {{range .Pages }}
+      <section>
+        <header class="cluster spacing:between p1" style="align-items: flex-end;">
+          <h2>{{.Data.Term}}</h2>
+          <a href="{{ .Data.Term | urlize }}" class="button button:large">See more</a>
+        </header>
+        <div class="carasol">
+          {{range first 25 .Data.Pages | shuffle }}
+            {{ .Render "summary" }}
+          {{end}}
+        </div>
+      </section>
+    {{end}}
+  </section>
+{{ end }}

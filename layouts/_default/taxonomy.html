@@ -1,21 +1,13 @@
-{{ define "main"}}
+{{define "main"}}
   <section>
-    <header style="margin-bottom: 30px;">
+    <header class="cluster s1 spacing:between" style="align-items: center; margin-bottom: 10px">
       <h1>{{.Title}}</h1>
+      <a class="button button:large" href="{{.Site.BaseURL}}genres">Back to Genres</a>
     </header>
-
-    {{range .Pages }}
-      <section>
-        <header class="cluster spacing:between p1" style="align-items: flex-end;">
-          <h2>{{.Data.Term}}</h2>
-          <a href="{{ .Data.Term | urlize }}" class="button button:large">See more</a>
-        </header>
-        <div class="carasol">
-          {{range first 25 .Data.Pages | shuffle }}
-            {{ .Render "summary" }}
-          {{end}}
-        </div>
-      </section>
-    {{end}}
+    <div class="cards">
+      {{ range .Pages }}
+        {{- .Render "summary" -}}
+      {{ end }}
+    </div>
   </section>
-{{ end }}
+{{end}}
