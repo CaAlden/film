@@ -75,6 +75,10 @@ p {
   text-align: justify;
 }
 
+.text-align\:center {
+  text-align: center !important;
+}
+
 html, body {
   background: var(--color-light-background);
   color: var(--color-secondary);
@@ -86,7 +90,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  max-width: calc(70ch + 60px);
+  max-width: 900px;
 }
 
 .title, h1 {
@@ -208,11 +212,19 @@ a:hover {
 .cluster {
   display: flex;
 }
+.stack {
+  display: flex;
+  flex-direction: column;
+}
+
 .spacing\:between {
   justify-content: space-between;
 }
 .align\:center {
   align-items: center;
+}
+.justify\:center {
+  justify-content: center;
 }
 
 .icon {
@@ -224,6 +236,12 @@ a:hover {
 
 .s1 {
   gap: 10px;
+}
+.s2 {
+  gap: 20px;
+}
+.s3 {
+  gap: 30px;
 }
 
 .p1 {
@@ -264,5 +282,5 @@ a:hover {
 }
 
 .http-header {
-  margin-top: 10vh;
+  class="home-page-header" margin-top: 10vh;
 }

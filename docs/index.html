@@ -17,6 +17,7 @@
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎥</text></svg>">
   <link rel="stylesheet" href="/film/style.css">
   <link rel="stylesheet" href="/film/card.css">
+  <link rel="stylesheet" href="/film/home.css">
   <link rel="stylesheet" href="/film/review.css">
   <link rel="stylesheet" href="/film/quick_look.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -36,15 +37,48 @@
 </nav>
 </header>
 <main id="content">
-  <div>
-    <p>This site is under construction. Please excuse the mess.</p>
+  <div class="core-content">
+    <section class="home-page-header">
+      <header class="stack s1">
+        <h1 class="subtitle">Movie Recommendations</h1><p>A collection of quick recommendations and thoughts on movies</p>
+</header>
+      <div class="search-bar">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <path d="M11 19C15.4183 19 19 15.4183 19 11C19 6.58172 15.4183 3 11 3C6.58172 3 3 6.58172 3 11C3 15.4183 6.58172 19 11 19Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20.9999 21L16.6499 16.65" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
 
-  </div>
-  <div class="cluster s1">
-    
-       
-    
-       <div class="card">
+        <input list="movies" name="movie-search" id="movie-search" />
+        <datalist id="movies">
+          
+            
+          
+            
+              <option value="No Reservations" data-value="/film/reviews/no-reservations/">A NY City chef and her recently adopted niece adapt to their life together</option>
+            
+              <option value="The French Dispatch" data-value="/film/reviews/the-french-dispatch/">Authors for a New Yorker-esque magazine report on a small town in France</option>
+            
+          
+            
+          
+        </datalist>
+        <script src="https://caalden.github.io/film/search.js" async defer></script>
+      </div>
+      <div class="cluster justify:center s3">
+        <a class="button" href="https://caalden.github.io/film/genres">Genres</a>
+        <a class="button" href="https://caalden.github.io/film/a-z">A-Z</a>
+        <a class="button" href="https://caalden.github.io/film/favorites">Favorites</a>
+      </div>
+    </section>
+    <section class="stack s1">
+      <header>
+        <h2>Recent</h2>
+      </header>
+      <div class="cards">
+        
+           
+        
+           <div class="card">
   <div class="card-image">
     <img class="card-image" src=https://m.media-amazon.com/images/M/MV5BMTI1NzQ5MzU1OV5BMl5BanBnXkFtZTcwNzExODU0MQ@@._V1_SX800.jpg alt="No Reservations" />
   </div>
@@ -87,9 +121,11 @@
   </div>
 </div>
 
-    
-       
-    
+        
+           
+        
+      </div>
+    </section>
   </div>
 
         </main><footer>
