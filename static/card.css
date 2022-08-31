@@ -23,10 +23,12 @@
 
 .card:hover .card-content {
   flex-basis: 50%;
+  transition-delay: 0ms;
   padding-top: 10px;
 }
 .card:hover .card-image {
   flex-basis: 50%;
+  transition-delay: 0ms;
 }
 
 .card-content {
@@ -35,11 +37,13 @@
   flex-direction: column;
   gap: 10px;
   justify-content: space-between;
-  transition: flex-basis 250ms ease-out;
+  transition: all 250ms ease-out;
+  transition-delay: 250ms;
 }
 
 .card-image {
-  transition: flex-basis 250ms ease-out;
+  transition: all 250ms ease-out;
+  transition-delay: 250ms;
   flex-grow: 1;
   flex-basis: 100%;
   object-fit: cover;

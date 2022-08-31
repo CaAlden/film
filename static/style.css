@@ -90,7 +90,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  max-width: 900px;
+  max-width: 930px;
 }
 
 .title, h1 {
@@ -283,4 +283,11 @@ a:hover {
 
 .http-header {
   class="home-page-header" margin-top: 10vh;
+}
+
+.carasol {
+  display: flex;
+  overflow: auto;
+  gap: 10px;
+  padding-bottom: 20px;
 }
