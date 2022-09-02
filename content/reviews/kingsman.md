@@ -14,7 +14,7 @@ genres:
 
 ## Recommendation
 
-_Kingsman_ is easy to recommend on basically every level. The base level plot is entertaining, the fight scenes are engaging and varied, and the movie's higher level commentary on society and meta level commentary on spy movies are all interesting.
+_Kingsman_ is easy for me to recommend because on a base level the plot is entertaining, the fight scenes are engaging and varied, and the movie's higher level commentary on society and meta level commentary on spy movies are all interesting.
 
 The only reason I wouldn't recommend you watch this is if you don't enjoy violence / action set pieces because this movie doesn't hold back. In particular, there is a scene where hundreds of people literally fight to the death, which is difficult to watch even if you know it's coming. If you can handle that, then I would say don't hesitate.
 
