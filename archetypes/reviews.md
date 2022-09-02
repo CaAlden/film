@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
+favorite: false
 draft: true
 rating: 5
 imdb: 0.0

@@ -56,6 +56,16 @@
   border-radius: 8px;
 }
 
+.card-favorite-star {
+  position: absolute;
+  display: flex;
+  right: 20px;
+  top: 20px;
+  padding: 10px;
+  background: rgba(255,255,255,0.25);
+  border-radius: 100%;
+}
+
 @media (prefers-reduced-motion) {
   .card-content {
     transition: none;
