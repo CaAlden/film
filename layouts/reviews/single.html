@@ -4,6 +4,11 @@
     {{ if .Params.image }}
       <div class="review-poster">
         <img src={{.Params.image}} alt="Poster">
+        {{ if .Params.favorite }}
+          <div class="review-favorite">
+            {{ partial "star.html" }}
+          </div>
+        {{end}}
       </div>
     {{ end }}
     <h1>{{- .Title -}}</h1>

@@ -19,6 +19,7 @@
 }
 
 .review-poster {
+  position: relative;
   aspect-ratio: 1/1;
   flex-basis: 200px;
   max-width: 200px;
@@ -31,4 +32,14 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.review-favorite {
+  position: absolute;
+  display: flex;
+  right: 10px;
+  top: 10px;
+  padding: 10px;
+  background: rgba(255,255,255,0.25);
+  border-radius: 100%;
 }
