@@ -2,26 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://caalden.github.io/film/</loc>
-    <lastmod>2022-08-28T22:31:36+09:00</lastmod>
+    <loc>https://caalden.github.io/film/genres/action/</loc>
+    <lastmod>2022-08-31T21:52:25+09:00</lastmod>
   </url><url>
-    <loc>https://caalden.github.io/film/genres/drama/</loc>
-    <lastmod>2022-08-28T22:31:36+09:00</lastmod>
+    <loc>https://caalden.github.io/film/genres/adventure/</loc>
+    <lastmod>2022-08-31T21:52:25+09:00</lastmod>
+  </url><url>
+    <loc>https://caalden.github.io/film/</loc>
+    <lastmod>2022-08-31T21:52:25+09:00</lastmod>
+  </url><url>
+    <loc>https://caalden.github.io/film/genres/comedy/</loc>
+    <lastmod>2022-08-31T21:52:25+09:00</lastmod>
   </url><url>
     <loc>https://caalden.github.io/film/genres/</loc>
+    <lastmod>2022-08-31T21:52:25+09:00</lastmod>
+  </url><url>
+    <loc>https://caalden.github.io/film/reviews/kingsman/</loc>
+    <lastmod>2022-08-31T21:52:25+09:00</lastmod>
+  </url><url>
+    <loc>https://caalden.github.io/film/reviews/</loc>
+    <lastmod>2022-08-31T21:52:25+09:00</lastmod>
+  </url><url>
+    <loc>https://caalden.github.io/film/genres/drama/</loc>
     <lastmod>2022-08-28T22:31:36+09:00</lastmod>
   </url><url>
     <loc>https://caalden.github.io/film/reviews/no-reservations/</loc>
     <lastmod>2022-08-28T22:31:36+09:00</lastmod>
   </url><url>
-    <loc>https://caalden.github.io/film/reviews/</loc>
-    <lastmod>2022-08-28T22:31:36+09:00</lastmod>
-  </url><url>
     <loc>https://caalden.github.io/film/genres/romance/</loc>
     <lastmod>2022-08-28T22:31:36+09:00</lastmod>
-  </url><url>
-    <loc>https://caalden.github.io/film/genres/comedy/</loc>
-    <lastmod>2022-08-17T17:18:04+09:00</lastmod>
   </url><url>
     <loc>https://caalden.github.io/film/reviews/the-french-dispatch/</loc>
     <lastmod>2022-08-17T17:18:04+09:00</lastmod>

@@ -145,6 +145,18 @@ main {
   letter-spacing: var(--numbers-font-letter-spacing);
 }
 
+ol {
+  padding-left: 40px;
+}
+
+li::marker {
+  font-family: var(--numbers-font-family);
+  font-weight: var(--numbers-font-weight);
+  line-height: var(--numbers-font-line-height);
+  font-size: var(--numbers-font-size);
+  letter-spacing: var(--numbers-font-letter-spacing);
+}
+
 button, .button {
   border: none;
   width: auto;
