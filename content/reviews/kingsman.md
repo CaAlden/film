@@ -18,7 +18,7 @@ _Kingsman_ is easy to recommend on basically every level. The base level plot is
 
 The only reason I wouldn't recommend you watch this is if you don't enjoy violence / action set pieces because this movie doesn't hold back. In particular, there is a scene where hundreds of people literally fight to the death, which is difficult to watch even if you know it's coming. If you can handle that, then I would say don't hesitate.
 
-As a rule in this movie, the fights are well choreographed and the camera work is entertaining. Rather than having a linear chase scene, the movie will opt for a par core exit. Rather than shooting fight scenes in a dark room with close up shots, this movie will pull out and show a room full of people fighting. I found myself constantly surprised by the level of brutality that the film makers are willing to go to. As a result the film has real stakes and you don't know when a sudden plot twist is coming.
+As a rule in this movie, the fights are well choreographed and the camera work is entertaining. Rather than having a linear chase scene, the movie will opt for a parkour exit. Rather than shooting fight scenes in a dark room with close up shots, this movie will pull out and show a room full of people fighting. I found myself constantly surprised by the level of brutality that the film makers are willing to go to. As a result the film has real stakes and you don't know when a sudden plot twist is coming.
 
 ## Thoughts
 
