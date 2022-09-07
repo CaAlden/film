@@ -3,7 +3,7 @@ title: No Reservations
 date: 2022-08-28T22:31:36+09:00
 rating: 3
 imdb: 6.3
-image: https://m.media-amazon.com/images/M/MV5BMTI1NzQ5MzU1OV5BMl5BanBnXkFtZTcwNzExODU0MQ@@._V1_SX800.jpg
+image: https://m.media-amazon.com/images/M/MV5BMTI1NzQ5MzU1OV5BMl5BanBnXkFtZTcwNzExODU0MQ@@._V1_SX800.webp
 summary: A NY City chef and her recently adopted niece adapt to their life together
 quick_look: Family tragedy and rockstar chef stereotypes mix into a pretty formulaic rom-dram. It rises above most genre tropes and has a kernel of heart, but lacks anything approaching a commentary on the themes it sets up. Recommended if you want a lightweight slice of life romance.
 genres:
