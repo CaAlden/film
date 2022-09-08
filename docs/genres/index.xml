@@ -6,20 +6,11 @@
     <description>Recent content in Genres on CaAlden: Films</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Aug 2022 21:52:25 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Action</title>
-      <link>https://caalden.github.io/film/genres/action/</link>
-      <pubDate>Wed, 31 Aug 2022 21:52:25 +0900</pubDate>
-      
-      <guid>https://caalden.github.io/film/genres/action/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 02 Sep 2022 17:54:55 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adventure</title>
       <link>https://caalden.github.io/film/genres/adventure/</link>
-      <pubDate>Wed, 31 Aug 2022 21:52:25 +0900</pubDate>
+      <pubDate>Fri, 02 Sep 2022 17:54:55 +0900</pubDate>
       
       <guid>https://caalden.github.io/film/genres/adventure/</guid>
       <description></description>
@@ -28,7 +19,7 @@
     <item>
       <title>Comedy</title>
       <link>https://caalden.github.io/film/genres/comedy/</link>
-      <pubDate>Wed, 31 Aug 2022 21:52:25 +0900</pubDate>
+      <pubDate>Fri, 02 Sep 2022 17:54:55 +0900</pubDate>
       
       <guid>https://caalden.github.io/film/genres/comedy/</guid>
       <description></description>
@@ -37,9 +28,18 @@
     <item>
       <title>Drama</title>
       <link>https://caalden.github.io/film/genres/drama/</link>
-      <pubDate>Sun, 28 Aug 2022 22:31:36 +0900</pubDate>
+      <pubDate>Fri, 02 Sep 2022 17:54:55 +0900</pubDate>
       
       <guid>https://caalden.github.io/film/genres/drama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action</title>
+      <link>https://caalden.github.io/film/genres/action/</link>
+      <pubDate>Wed, 31 Aug 2022 21:52:25 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/genres/action/</guid>
       <description></description>
     </item>
     
