@@ -266,13 +266,14 @@ a:hover {
 
 .core-content p {
   margin-bottom: 20px;
+  margin-top: 20px;
   text-indent: 4ch;
   padding: 0 10px;
 }
 
 .core-content h2, .core-content h3 {
   margin-top: 30px;
-  margin-bottom: 10px;
+  margin-bottom: -10px;
 }
 
 .http-status {
