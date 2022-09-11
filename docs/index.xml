@@ -6,7 +6,16 @@
     <description>Recent content on CaAlden: Films</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Sep 2022 17:54:55 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Sep 2022 15:34:14 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beverly Hills Cop</title>
+      <link>https://caalden.github.io/film/reviews/beverly-hills-cop/</link>
+      <pubDate>Wed, 07 Sep 2022 15:34:14 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/reviews/beverly-hills-cop/</guid>
+      <description>A Detroit cop comes to Beverly Hills to find the man who murdered his friend</description>
+    </item>
+    
     <item>
       <title>Holes</title>
       <link>https://caalden.github.io/film/reviews/holes/</link>
