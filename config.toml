@@ -3,3 +3,8 @@ languageCode = 'en-us'
 title = 'CaAlden: Films'
 [taxonomies]
   genre = 'genres'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
