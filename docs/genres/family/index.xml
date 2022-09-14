@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Family on CaAlden: Films</title>
+    <link>https://caalden.github.io/film/genres/family/</link>
+    <description>Recent content in Family on CaAlden: Films</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Sep 2022 20:43:24 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/family/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whisper of the Heart</title>
+      <link>https://caalden.github.io/film/reviews/whisper-of-the-heart/</link>
+      <pubDate>Sun, 11 Sep 2022 20:43:24 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/reviews/whisper-of-the-heart/</guid>
+      <description>A slice of life story about a bookish middle school girl living in Tokyo</description>
+    </item>
+    
+  </channel>
+</rss>

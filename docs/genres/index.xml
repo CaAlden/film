@@ -6,7 +6,34 @@
     <description>Recent content in Genres on CaAlden: Films</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Sep 2022 20:43:17 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Sep 2022 20:43:24 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drama</title>
+      <link>https://caalden.github.io/film/genres/drama/</link>
+      <pubDate>Sun, 11 Sep 2022 20:43:24 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/genres/drama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Family</title>
+      <link>https://caalden.github.io/film/genres/family/</link>
+      <pubDate>Sun, 11 Sep 2022 20:43:24 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/genres/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Romance</title>
+      <link>https://caalden.github.io/film/genres/romance/</link>
+      <pubDate>Sun, 11 Sep 2022 20:43:24 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/genres/romance/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Crime</title>
       <link>https://caalden.github.io/film/genres/crime/</link>
@@ -58,24 +85,6 @@
       <pubDate>Fri, 02 Sep 2022 17:54:55 +0900</pubDate>
       
       <guid>https://caalden.github.io/film/genres/adventure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Drama</title>
-      <link>https://caalden.github.io/film/genres/drama/</link>
-      <pubDate>Fri, 02 Sep 2022 17:54:55 +0900</pubDate>
-      
-      <guid>https://caalden.github.io/film/genres/drama/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Romance</title>
-      <link>https://caalden.github.io/film/genres/romance/</link>
-      <pubDate>Sun, 28 Aug 2022 22:31:36 +0900</pubDate>
-      
-      <guid>https://caalden.github.io/film/genres/romance/</guid>
       <description></description>
     </item>
     
