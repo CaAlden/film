@@ -13,7 +13,7 @@
     {{ end }}
     <h1>{{- .Title -}}</h1>
     <h2 class="subtitle-small color:deemphasize" style="margin-top: -30px">
-      {{- .PublishDate.Format "August 2, 2006" -}}
+      {{- .PublishDate | time.Format ":date_long" -}}
     </h2>
     {{ partial "quicklook.html" . }}
   </header>
