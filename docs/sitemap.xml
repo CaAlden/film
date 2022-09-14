@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://caalden.github.io/film/</loc>
+    <lastmod>2022-09-11T20:43:17+09:00</lastmod>
+  </url><url>
+    <loc>https://caalden.github.io/film/genres/crime/</loc>
+    <lastmod>2022-09-11T20:43:17+09:00</lastmod>
+  </url><url>
+    <loc>https://caalden.github.io/film/genres/</loc>
+    <lastmod>2022-09-11T20:43:17+09:00</lastmod>
+  </url><url>
+    <loc>https://caalden.github.io/film/genres/mystery/</loc>
+    <lastmod>2022-09-11T20:43:17+09:00</lastmod>
+  </url><url>
+    <loc>https://caalden.github.io/film/reviews/now-you-see-me/</loc>
+    <lastmod>2022-09-11T20:43:17+09:00</lastmod>
+  </url><url>
+    <loc>https://caalden.github.io/film/reviews/</loc>
+    <lastmod>2022-09-11T20:43:17+09:00</lastmod>
+  </url><url>
+    <loc>https://caalden.github.io/film/genres/thriller/</loc>
+    <lastmod>2022-09-11T20:43:17+09:00</lastmod>
+  </url><url>
     <loc>https://caalden.github.io/film/genres/action/</loc>
     <lastmod>2022-09-07T15:34:14+09:00</lastmod>
   </url><url>
     <loc>https://caalden.github.io/film/reviews/beverly-hills-cop/</loc>
     <lastmod>2022-09-07T15:34:14+09:00</lastmod>
   </url><url>
-    <loc>https://caalden.github.io/film/</loc>
-    <lastmod>2022-09-07T15:34:14+09:00</lastmod>
-  </url><url>
     <loc>https://caalden.github.io/film/genres/comedy/</loc>
-    <lastmod>2022-09-07T15:34:14+09:00</lastmod>
-  </url><url>
-    <loc>https://caalden.github.io/film/genres/crime/</loc>
-    <lastmod>2022-09-07T15:34:14+09:00</lastmod>
-  </url><url>
-    <loc>https://caalden.github.io/film/genres/</loc>
-    <lastmod>2022-09-07T15:34:14+09:00</lastmod>
-  </url><url>
-    <loc>https://caalden.github.io/film/reviews/</loc>
     <lastmod>2022-09-07T15:34:14+09:00</lastmod>
   </url><url>
     <loc>https://caalden.github.io/film/genres/adventure/</loc>

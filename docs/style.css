@@ -71,10 +71,6 @@ html, body, p, section, header, article {
   letter-spacing: var(--body-font-letter-spacing);
 }
 
-p {
-  text-align: justify;
-}
-
 .text-align\:center {
   text-align: center !important;
 }
