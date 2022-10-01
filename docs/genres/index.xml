@@ -6,7 +6,34 @@
     <description>Recent content in Genres on CaAlden: Films</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Sep 2022 20:43:24 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Sep 2022 22:09:07 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Action</title>
+      <link>https://caalden.github.io/film/genres/action/</link>
+      <pubDate>Wed, 14 Sep 2022 22:09:07 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/genres/action/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adventure</title>
+      <link>https://caalden.github.io/film/genres/adventure/</link>
+      <pubDate>Wed, 14 Sep 2022 22:09:07 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/genres/adventure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comedy</title>
+      <link>https://caalden.github.io/film/genres/comedy/</link>
+      <pubDate>Wed, 14 Sep 2022 22:09:07 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/genres/comedy/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Drama</title>
       <link>https://caalden.github.io/film/genres/drama/</link>
@@ -58,33 +85,6 @@
       <pubDate>Sun, 11 Sep 2022 20:43:17 +0900</pubDate>
       
       <guid>https://caalden.github.io/film/genres/thriller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Action</title>
-      <link>https://caalden.github.io/film/genres/action/</link>
-      <pubDate>Wed, 07 Sep 2022 15:34:14 +0900</pubDate>
-      
-      <guid>https://caalden.github.io/film/genres/action/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comedy</title>
-      <link>https://caalden.github.io/film/genres/comedy/</link>
-      <pubDate>Wed, 07 Sep 2022 15:34:14 +0900</pubDate>
-      
-      <guid>https://caalden.github.io/film/genres/comedy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adventure</title>
-      <link>https://caalden.github.io/film/genres/adventure/</link>
-      <pubDate>Fri, 02 Sep 2022 17:54:55 +0900</pubDate>
-      
-      <guid>https://caalden.github.io/film/genres/adventure/</guid>
       <description></description>
     </item>
     

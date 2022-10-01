@@ -267,6 +267,11 @@ a:hover {
   padding: 0 10px;
 }
 
+li {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
 .core-content h2, .core-content h3 {
   margin-top: 30px;
   margin-bottom: -10px;
