@@ -6,13 +6,31 @@
     <description>Recent content in Genres on CaAlden: Films</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Sep 2022 22:09:07 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Sep 2022 22:41:22 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Action</title>
       <link>https://caalden.github.io/film/genres/action/</link>
-      <pubDate>Wed, 14 Sep 2022 22:09:07 +0900</pubDate>
+      <pubDate>Tue, 27 Sep 2022 22:41:22 +0900</pubDate>
       
       <guid>https://caalden.github.io/film/genres/action/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sci-Fi</title>
+      <link>https://caalden.github.io/film/genres/sci-fi/</link>
+      <pubDate>Tue, 27 Sep 2022 22:41:22 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/genres/sci-fi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thriller</title>
+      <link>https://caalden.github.io/film/genres/thriller/</link>
+      <pubDate>Tue, 27 Sep 2022 22:41:22 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/genres/thriller/</guid>
       <description></description>
     </item>
     
@@ -76,15 +94,6 @@
       <pubDate>Sun, 11 Sep 2022 20:43:17 +0900</pubDate>
       
       <guid>https://caalden.github.io/film/genres/mystery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thriller</title>
-      <link>https://caalden.github.io/film/genres/thriller/</link>
-      <pubDate>Sun, 11 Sep 2022 20:43:17 +0900</pubDate>
-      
-      <guid>https://caalden.github.io/film/genres/thriller/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sci-Fi on CaAlden: Films</title>
+    <link>https://caalden.github.io/film/genres/sci-fi/</link>
+    <description>Recent content in Sci-Fi on CaAlden: Films</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Sep 2022 22:41:22 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/sci-fi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In Time</title>
+      <link>https://caalden.github.io/film/reviews/in-time/</link>
+      <pubDate>Tue, 27 Sep 2022 22:41:22 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/reviews/in-time/</guid>
+      <description>A dystopian future where time is literally money</description>
+    </item>
+    
+  </channel>
+</rss>
