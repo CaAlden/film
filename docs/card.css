@@ -5,6 +5,7 @@
   border-radius: 10px;
   background: var(--color-primary);
   aspect-ratio: 2 / 3;
+  height: 100%; /* This feels like it shouldn't be necessary */
   flex-basis: 280px;
   max-width: 280px;
   padding: 10px;
