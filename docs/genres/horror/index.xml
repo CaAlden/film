@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Horror on CaAlden: Films</title>
+    <link>https://caalden.github.io/film/genres/horror/</link>
+    <description>Recent content in Horror on CaAlden: Films</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Oct 2022 20:53:53 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/horror/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fright Night</title>
+      <link>https://caalden.github.io/film/reviews/fright-night/</link>
+      <pubDate>Sun, 09 Oct 2022 20:53:53 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/reviews/fright-night/</guid>
+      <description>A high school student suspects his next door neighbor is a vampire</description>
+    </item>
+    
+  </channel>
+</rss>

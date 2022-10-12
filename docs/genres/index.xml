@@ -6,13 +6,22 @@
     <description>Recent content in Genres on CaAlden: Films</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Sep 2022 22:41:22 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Oct 2022 20:53:53 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Action</title>
       <link>https://caalden.github.io/film/genres/action/</link>
-      <pubDate>Tue, 27 Sep 2022 22:41:22 +0900</pubDate>
+      <pubDate>Sun, 09 Oct 2022 20:53:53 +0900</pubDate>
       
       <guid>https://caalden.github.io/film/genres/action/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horror</title>
+      <link>https://caalden.github.io/film/genres/horror/</link>
+      <pubDate>Sun, 09 Oct 2022 20:53:53 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/genres/horror/</guid>
       <description></description>
     </item>
     
