@@ -18,8 +18,8 @@
     </div>
     <div class="cluster spacing:between">
       <div class="cluster s1 align:center">
-        <img src="{{site.BaseURL}}imdb-logo-small.png" class="icon" alt="imbd logo">
-        <span class="numbers">{{- lang.NumFmt 1 .Params.imdb -}}</span>
+        Rating:
+        <span class="numbers">{{ .Params.rating }}/5</span>
       </div>
       <div>
         <a class="button" href="{{ .RelPermalink }}">
