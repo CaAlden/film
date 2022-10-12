@@ -106,5 +106,15 @@
       <description>This is a blog that I’ve wanted to start for a long time! I create it with two goals in mind. First, I want to jot down and share my thoughts about movies as I have them. I normally have a pretty clear opinion about movies right after I watch them, but then cannot remember clearly all the little things I was thinking after about a week. I hope to use this blog to track those ideas while they’re still fresh.</description>
     </item>
     
+    <item>
+      <title>Explaining My Ratings</title>
+      <link>https://caalden.github.io/film/ratings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caalden.github.io/film/ratings/</guid>
+      <description>You may have noticed that my ratings for movies on this site don&amp;rsquo;t line up with other sites. In some cases, my rating may not line up exactly with my full opinion of the movie. That&amp;rsquo;s because I&amp;rsquo;m not rating the quality of the movie directly. I&amp;rsquo;m rating how strongly I recommend you watch the movie.
+This is why something I absolutely loved, for example The French Dispatch, is given less than 5/5.</description>
+    </item>
+    
   </channel>
 </rss>

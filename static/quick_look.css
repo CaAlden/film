@@ -13,6 +13,10 @@
   color: #3D292D !important ;
 }
 
+.quicklook-info {
+  display: inline-flex;
+}
+
 .quicklook-details {
   display: flex;
   gap: 30px;

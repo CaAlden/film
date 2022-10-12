@@ -1,0 +1,14 @@
+---
+title: Explaining My Ratings
+date: 2022-10-12:08:30+09:00
+description: Rather than a normal rating system, my rating is based on how likely I am to recommend a movie.
+---
+You may have noticed that my ratings for movies on this site don't line up with other sites. In some cases, my rating may not line up exactly with my full opinion of the movie. That's because I'm not rating the _quality_ of the movie directly. I'm rating _how strongly I recommend you watch the movie_.
+
+This is why something I absolutely loved, for example [The French Dispatch](https://caalden.github.io/film/reviews/the-french-dispatch/), is given less than 5/5. While I think that movie is great, it is not necessarily a film that I think everyone will enjoy. My ratings can be thought of as follows:
+
+1. **This movie was bad and I actively implore you not to go see it**. At the time of writing this, no movie I have reviewed has reached this score. I tend to be discerning enough to avoid movies I would suspect warrant this rating in the first place. If I do come across a 1/5, it will be something that I actively think should not exist.
+2. **This movie was bad and I recommend you pass it by.** A movie that I rank a 2/5 has serious issues. [Now You See Me 2](https://caalden.github.io/film/reviews/now-you-see-me-2/) meets this criteria for me. Full details can be found in that review, however, suffice it to say the movie is both bad and ruins the original. You gain little by watching it and may even lose something you liked about the first one.
+3. **This movie was fine, I leave it up to you to decide based on my Recommendation section if you think it's worth watching**. I could go either way here. For example, [No Reservations](https://caalden.github.io/film/reviews/no-reservations/) is in this category because it wasn't bad and there were things I liked, but it also wasn't actively good. It missed the mark in a lot of ways but works just fine as a Rom-Dram. 
+4. **I recommend you see this movie**. A majority of my ratings are ending up 4/5 because for the most part I can think of more reasons to watch most movies than I can think of to pass them by. The movie still might not be for everyone, but I think the average person should enjoy it.
+5. **I don't care who you are, you must watch this**. Most movies fall short of my 5/5 because they have to have a unique combination of being somewhat of a crowd pleaser while still being an objectively good movie. For example, [Whisper of the Heart](https://caalden.github.io/film/reviews/whisper-of-the-heart/) hits the 5/5 mark for me because the story, art, music, etc are all excellent. There's nothing too challenging about it that might make me put asterisks on the recommendation. I have trouble imagining someone who couldn't find something to enjoy in that film.
