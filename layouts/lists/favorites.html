@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <div class="core-content">
+    <section class="home-page-header">
+      <header class="stack s1">
+        <h1>{{ .Title }}</h1>
+        {{- .Content -}}
+      </header>
+      <div class="cards">
+        {{ range (where .Site.Pages "Section" "reviews")  }}
+           {{ range (where .Pages ".Params.favorite" "==" true) }}
+              {{- .Render "summary" -}}
+           {{ end }}
+        {{ end }}
+      </div>
+    </section>
+  </div>
+{{end}}
