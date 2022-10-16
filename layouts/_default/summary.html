@@ -2,9 +2,10 @@
   <div class="card-image">
     <img loading="lazy" class="card-image" src={{ .Params.image }} alt="{{- .Title -}}" />
     {{ if .Params.favorite }}
-      <div class="card-favorite-star">
+      <a class="card-favorite-star" href="{{.Site.BaseURL}}favorites">
+        <span hidden>Favorite</span>
         {{ partial "star.html" }}
-      </div>
+      </a>
     {{ end }}
   </div>
   <section class="card-content">

@@ -5,9 +5,10 @@
       <div class="review-poster">
         <img src={{.Params.image}} alt="Poster">
         {{ if .Params.favorite }}
-          <div class="review-favorite">
+          <a class="review-favorite" href="{{.Site.BaseURL}}favorites">
+            <span hidden>Favorite</span>
             {{ partial "star.html" }}
-          </div>
+          </a>
         {{end}}
       </div>
     {{ end }}
