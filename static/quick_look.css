@@ -1,8 +1,8 @@
 .quicklook {
   max-width: 600px;
   border-radius: 16px;
-  background: #F4C2CD;
-  color: #702E2E;
+  background: var(--color-quicklook-background);
+  color: var(--color-quicklook-primary);
   padding: 20px;
   display: flex;
   flex-direction: column;
@@ -10,7 +10,7 @@
 }
 
 .quicklook-emphasized-color {
-  color: #3D292D !important ;
+  color: var(--color-quicklook-emphasized) !important ;
 }
 
 .quicklook-info {

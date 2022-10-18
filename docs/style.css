@@ -51,12 +51,36 @@
 
   --color-primary: #FFFFFF;
   --color-secondary: #110F12;
+  --color-header: #000;
   --color-accent: #D2002E;
-  --color-light-background: #f2f2f2;
-  --color-dark-background: #333;
+  --color-primary-background: #f2f2f2;
+  --color-secondary-background: #fff;
   --color-link: #1D4F8C;
   --color-deemphasize: #4D4D4D;
+
+  /* Quick Look section */
+  --color-quicklook-primary: #702E2E;
+  --color-quicklook-emphasized: #3D292D;
+  --color-quicklook-background: #F4C2CD;
+
   font-size: var(--body-font-size);
+}
+
+@media (prefers-color-scheme: dark) {
+   :root {
+    --color-primary: #1A1A1A;
+    --color-secondary: #FFFFFF;
+    --color-header: #0D0D0D;
+    --color-accent: #D2002E;
+    --color-primary-background: #1A1A1A;
+    --color-secondary-background: #0D0D0D;
+    --color-link: #4487D9;
+    --color-deemphasize: #ADADAD;
+
+    --color-quicklook-primary: #F4C2CD;
+    --color-quicklook-emphasized: #F4C2CD;
+    --color-quicklook-background: #520F1D;
+  }
 }
 
 * {
@@ -76,7 +100,7 @@ html, body, p, section, header, article {
 }
 
 html, body {
-  background: var(--color-light-background);
+  background: var(--color-primary-background);
   color: var(--color-secondary);
   min-height: 100vh;
 }
@@ -193,8 +217,14 @@ a:hover {
 .color\:invert {
   color: var(--color-primary);
 }
+@media (prefers-color-scheme: dark) {
+  .color\:invert {
+    color: var(--color-secondary);
+  }
+}
+
 .bg\:secondary {
-  background: var(--color-secondary);
+  background: var(--color-secondary-background);
 }
 .color\:deemphasize {
   color: var(--color-deemphasize);
@@ -213,8 +243,14 @@ a:hover {
   justify-content: space-between;
   align-items: center;
   padding: 20px;
-  background: var(--color-secondary);
+  background: var(--color-header);
   color: var(--color-primary);
+}
+
+@media (prefers-color-scheme: dark) {
+  .header {
+    color: var(--color-secondary);
+  }
 }
 
 .cluster {
