@@ -9,6 +9,7 @@
   flex-basis: 280px;
   max-width: 280px;
   padding: 10px;
+  text-align: left;
 }
 
 .card-title-long {
