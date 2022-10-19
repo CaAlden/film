@@ -17,6 +17,7 @@
       {{- .PublishDate | time.Format ":date_long" -}}
     </h2>
     {{ partial "quicklook.html" . }}
+    {{ partial "metadetails.html" . }}
   </header>
   <div class="core-content">
     {{- .Content -}}

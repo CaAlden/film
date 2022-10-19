@@ -1,0 +1,36 @@
+<dl class="metadetails-list">
+  <div class="metadetails-row">
+    <div class="metadetails-column">
+      <dt class="caption">
+      <a href="{{- .Params.imdb_link -}}" title="Link to IMDb page for {{ .Title }}">IMDb</a>
+      </dt>
+      <dd class="numbers">{{- .Params.imdb -}}</dd>
+    </div>
+    <div class="metadetails-column">
+      <dt class="caption">
+      <a href="{{- .Params.rotten_tomatoes_link -}}" title="Link to Rotten Tomatoes page for {{ .Title }}">Rotten Tomatoes</a>
+      </dt>
+      <dd class="numbers">{{- .Params.rotten_tomatoes -}}</dd>
+    </div>
+    <div class="metadetails-column">
+      <dt class="caption">
+      <a href="{{- .Params.metacritic_link -}}" title="Link to Metacritic page for {{ .Title }}">Metacritic</a>
+      </dt>
+      <dd class="numbers">{{- .Params.metacritic -}}</dd>
+    </div>
+  </div>
+  <div class="metadetails-row">
+    <div class="metadetails-column">
+      <dt class="caption">Year</dt>
+      <dd class="numbers">{{- .Params.year -}}</dd>
+    </div>
+    <div class="metadetails-column">
+      <dt class="caption">Rated</dt>
+      <dd class="numbers">{{- .Params.mpaa -}}</dd>
+    </div>
+    <div class="metadetails-column">
+      <dt class="caption">Box Office</dt>
+      <dd class="numbers">{{- .Params.box_office -}}</dd>
+    </div>
+  </div>
+</dl>
