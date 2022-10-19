@@ -1,0 +1,40 @@
+{{ define "main" }}
+{{- $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" -}}
+{{- $pages := (where (where .Site.Pages "Section" "reviews") "IsPage" "==" true) -}}
+{{- $pages_by_letters := dict -}}
+{{ range $pages }}
+  {{- $page := . -}}
+  {{- $first_letter := upper ( substr $page.Title 0 1 ) -}}
+  {{- if not (in $letters $first_letter) }}
+    {{ $first_letter = "#" }}
+  {{ end }}
+  {{- $new_list := slice -}}
+  {{ with index $pages_by_letters $first_letter }}
+    {{- $new_list = . | append $page -}}
+  {{ else }}
+    {{- $new_list = slice $page -}}
+  {{ end }}
+  {{- $pages_by_letters = merge $pages_by_letters (dict $first_letter $new_list) -}}
+{{ end }}
+  <section class="home-page-header">
+    <header class="stack s1">
+      <h1>{{ .Title }}</h1>
+      <div class="core-content">
+        {{- .Content -}}
+      </div>
+    </header>
+      {{ range $key, $items := $pages_by_letters }}
+        <section>
+          <header class="p1">
+            <h2 class="cluster">{{$key}}</h2>
+          </header>
+          <div class="carasol">
+            {{range sort $items "Title" }}
+              {{ .Render "summary" }}
+            {{end}}
+          </div>
+        </section>
+      {{end}}
+    </div>
+  </section>
+{{end}}
