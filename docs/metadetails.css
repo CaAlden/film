@@ -1,0 +1,19 @@
+.metadetails-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.metadetails-row {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+}
+
+.metadetails-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
