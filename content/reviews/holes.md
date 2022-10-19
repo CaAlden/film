@@ -1,18 +1,28 @@
 ---
-title: Holes
-date: 2022-09-02T17:54:55+09:00
+box_office: $67,406,573
+date: 2022-09-02 17:54:55+09:00
 favorite: true
-rating: 3
-imdb: 7.0
-image: https://m.media-amazon.com/images/M/MV5BMTg0MTU5ODkwM15BMl5BanBnXkFtZTYwMzgxNzY3._V1_SX800.webp
-summary: A boy is sent to a juvenile work camp as punishment after being mistakenly arrested.
-quick_look: With a compelling story and a fun blending of historical western style and modern penal servitude, this has become an iconic example of a young adult film from the early 2000s. I saw this movie uncountably many times as a child, but I'm afraid it would be only nostalgia that could elevate this movie beyond a middling review from me.
 genres:
 - Adventure
 - Comedy
 - Drama
+image: https://m.media-amazon.com/images/M/MV5BMTg0MTU5ODkwM15BMl5BanBnXkFtZTYwMzgxNzY3._V1_SX800.webp
+imdb: 7.0/10
+imdb_link: https://www.imdb.com/title/tt0311289
+metacritic: 71/100
+metacritic_link: https://www.metacritic.com/movie/holes
+mpaa: PG
+quick_look: With a compelling story and a fun blending of historical western style and modern penal servitude,
+  this has become an iconic example of a young adult film from the early 2000s. I saw this movie uncountably
+  many times as a child, but I'm afraid it would be only nostalgia that could elevate this movie beyond
+  a middling review from me.
+rating: 3
+rotten_tomatoes: 78%
+rotten_tomatoes_link: https://www.rottentomatoes.com/m/holes
+summary: A boy is sent to a juvenile work camp as punishment after being mistakenly arrested.
+title: Holes
+year: 2003
 ---
-
 ## Recommendation
 
 I could go either way on this film when it comes to a recommendation. I think its plot and characters are well suited for child viewers which is probably why I remembered it so fondly. As an adult I'm not sure I would recommend watching it. Many of the characters are fairly one dimensional and aren't always given enough time to interact with one another to earn the emotional payoffs that are set up.
@@ -46,3 +56,4 @@ Obviously the joke is gender normative and arguably transphobic, but what I thin
 I'm not sure if it's meant to be taken literally, but if so, does his character identify as a woman? If they are presenting Mr. Sir as someone who identifies as a woman then the entire framing takes a more transphobic slant in my opinion. I don't think that _is_ their intention, but it struck me as being a weird scene and I remember think the same thing when I was younger. At that time I was more confused why he agreed with the remark that was clearly intended to be derogatory, but didn't consider it deeper than that.
 
 Anyway, I think it's just a poorly written scene, based on a low effort gender normative joke, but I'm trying to decide what is happening in the back half of that scene with Mr. Sir's response and the crowd's "oh"-ing.
+

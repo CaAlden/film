@@ -1,17 +1,27 @@
 ---
-title: 'Kingsman: The Secret Service'
-date: 2022-08-31T21:52:25+09:00
-rating: 4
-imdb: 7.7
-image: https://m.media-amazon.com/images/M/MV5BYTM3ZTllNzItNTNmOS00NzJiLTg1MWMtMjMxNDc0NmJhODU5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX800.webp
-summary: A secret British spy agency unravels a billionaire's evil plot
-quick_look: Kingsman has all the elements that make a spy movie fun. It has wall to wall action, futuristic gadgets, secret organizations, and evil plots to destroy the world. More importantly, it has a well written script and interesting cinematography to prop it up. If you can stomach the gratuitous violence, then I highly recommend you add this to your watchlist!
+box_office: $128,261,724
+date: 2022-08-31 21:52:25+09:00
 genres:
-  - Action
-  - Adventure
-  - Comedy
+- Action
+- Adventure
+- Comedy
+image: https://m.media-amazon.com/images/M/MV5BYTM3ZTllNzItNTNmOS00NzJiLTg1MWMtMjMxNDc0NmJhODU5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX800.webp
+imdb: 7.7/10
+imdb_link: https://www.imdb.com/title/tt2802144
+metacritic: 60/100
+metacritic_link: https://www.metacritic.com/movie/kingsman-the-secret-service
+mpaa: R
+quick_look: Kingsman has all the elements that make a spy movie fun. It has wall to wall action, futuristic
+  gadgets, secret organizations, and evil plots to destroy the world. More importantly, it has a well
+  written script and interesting cinematography to prop it up. If you can stomach the gratuitous violence,
+  then I highly recommend you add this to your watchlist!
+rating: 4
+rotten_tomatoes: 75%
+rotten_tomatoes_link: https://www.rottentomatoes.com/m/kingsman_the_secret_service
+summary: A secret British spy agency unravels a billionaire's evil plot
+title: 'Kingsman: The Secret Service'
+year: 2014
 ---
-
 ## Recommendation
 
 _Kingsman_ is easy for me to recommend because on a base level the plot is entertaining, the fight scenes are engaging and varied, and the movie's higher level commentary on society and meta level commentary on spy movies are all interesting.
@@ -86,3 +96,4 @@ MARV is the production company of the director (Matthew Allard de Vere Drummond)
 81-94 million USD. The movie made over 400 million so it's not surprising they made sequels.
 3. **Was this original content?** It was adapted from a comic series [Kingsman (comic)](https://en.wikipedia.org/wiki/Kingsman_(comic_series)).
 4. **Wait, was the professor at the beginning Mark Hamill?** Yes
+

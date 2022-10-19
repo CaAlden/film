@@ -1,18 +1,26 @@
 ---
-title: In Time
-date: 2022-09-27T22:41:22+09:00
+box_office: $37,520,095
+date: 2022-09-27 22:41:22+09:00
 favorite: false
-rating: 4
-imdb: 6.7
-image: https://m.media-amazon.com/images/M/MV5BMjA3NzI1ODc1MV5BMl5BanBnXkFtZTcwMzI5NjQwNg@@._V1_SX800.webp
-summary: A dystopian future where time is literally money
-quick_look: This film's interesting premise and anti-capitalist sentiment result in an imperfect, but still entertaining action thriller that seems to have aged rather well.
 genres:
-  - Action
-  - Sci-Fi
-  - Thriller
+- Action
+- Sci-Fi
+- Thriller
+image: https://m.media-amazon.com/images/M/MV5BMjA3NzI1ODc1MV5BMl5BanBnXkFtZTcwMzI5NjQwNg@@._V1_SX800.webp
+imdb: 6.7/10
+imdb_link: https://www.imdb.com/title/tt1637688
+metacritic: 53/100
+metacritic_link: https://www.metacritic.com/movie/in-time
+mpaa: PG-13
+quick_look: This film's interesting premise and anti-capitalist sentiment result in an imperfect, but
+  still entertaining action thriller that seems to have aged rather well.
+rating: 4
+rotten_tomatoes: 37%
+rotten_tomatoes_link: https://www.rottentomatoes.com/m/in_time
+summary: A dystopian future where time is literally money
+title: In Time
+year: 2011
 ---
-
 ## Recommendation
 
 This movie gets a recommendation from me, but I have a few specific things that perhaps bias my opinion. As a flat sci-fi action movie, I think this film works. There are aspects of a rags-to-riches story here that people may find entertaining. It falls back on a relatively anti-capitalist message which is a take you don't typically see in mainstream blockbusters.
@@ -38,3 +46,4 @@ Then it takes the next step and gets people on board with the idea of redistribu
 I guess my only real issue with the film is that it gets to the point about redistributing the wealth and how the system just keeps altering to eventually put the power back into the hands of the few. At one point they even talk about how it will take several generations for the social order to recover if they redistribute all of the wealth, but the problem is that the social order is going to eventually go back to how it was because they aren't planning to change the system.
 
 I would've preferred an ending where the characters change the system rather than simply trying to redistribute the wealth while keeping wages in place. It might end up being too utopian a slant to be entertaining, but the actual ending where they are just robbing bigger and bigger banks felt a bit hollow to me. They don't actually solve any of the problems that the society has in place.
+

@@ -1,16 +1,25 @@
 ---
-title: No Reservations
-date: 2022-08-28T22:31:36+09:00
-rating: 3
-imdb: 6.3
-image: https://m.media-amazon.com/images/M/MV5BMTI1NzQ5MzU1OV5BMl5BanBnXkFtZTcwNzExODU0MQ@@._V1_SX800.webp
-summary: A NY City chef and her recently adopted niece adapt to their life together
-quick_look: Family tragedy and rockstar chef stereotypes mix into a pretty formulaic rom-dram. It rises above most genre tropes and has a kernel of heart, but lacks anything approaching a commentary on the themes it sets up. Recommended if you want a lightweight slice of life romance.
+box_office: $43,107,979
+date: 2022-08-28 22:31:36+09:00
 genres:
-  - Romance
-  - Drama
+- Romance
+- Drama
+image: https://m.media-amazon.com/images/M/MV5BMTI1NzQ5MzU1OV5BMl5BanBnXkFtZTcwNzExODU0MQ@@._V1_SX800.webp
+imdb: 6.3/10
+imdb_link: https://www.imdb.com/title/tt0481141
+metacritic: 50/100
+metacritic_link: https://www.metacritic.com/movie/no-reservations
+mpaa: PG
+quick_look: Family tragedy and rockstar chef stereotypes mix into a pretty formulaic rom-dram. It rises
+  above most genre tropes and has a kernel of heart, but lacks anything approaching a commentary on the
+  themes it sets up. Recommended if you want a lightweight slice of life romance.
+rating: 3
+rotten_tomatoes: 42%
+rotten_tomatoes_link: https://www.rottentomatoes.com/m/no_reservations
+summary: A NY City chef and her recently adopted niece adapt to their life together
+title: No Reservations
+year: 2007
 ---
-
 ## Recommendation
 
 The story sets up a female chef in the city who’s work has become her obsession, but her lifestyle is radically changed by a family tragedy. Via this tragedy the film sets itself up with some ambitious topics to tackle, however, unfortunately for the most part it doesn’t address these themes. The movie is trying to be a full drama and a full romance and it just doesn’t fully work.
@@ -66,3 +75,4 @@ If the scenes aren’t meant to be funny then they are just there to act as spok
 The downstairs neighbor character's role in the film is hard to categorize. I’m not entirely sure why he’s in the movie in the first place. At one point he is watching the niece when Kate gets back from a date which is played for a laugh (although again it wasn’t really funny so much as it was awkward because she’s trying to explain away why he’s there as if Nick would be surprised that someone was at home watching the 8 year old).
 
 The only definite thing his character does for the plot is lightly set Kate up as someone not looking for love at the beginning of the movie, but if you cut all of his other scenes I think you’d end up with basically the same film. Anytime there's a character like that I find myself wondering if they should've been included at all.
+

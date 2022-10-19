@@ -1,18 +1,26 @@
 ---
-title: The French Dispatch
-date: 2022-08-17T17:18:04+09:00
+box_office: $16,124,375
+date: 2022-08-17 17:18:04+09:00
 draft: false
-rating: 4
-imdb: 7.2
-image: https://m.media-amazon.com/images/M/MV5BNmQxZTNiODYtNzBhYy00MzVlLWJlN2UtNTc4YWZjMDIwMmEzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX800.webp
-summary: Authors for a New Yorker-esque magazine report on a small town in France
-quick_look: Charming and highly stylized, this movie has immediately joined my shelf of favorites. Great if you are a Wes Anderson fan or just someone looking for absurdist humor.
 genres:
-  - Comedy
-  - Drama
-  - Romance
+- Comedy
+- Drama
+- Romance
+image: https://m.media-amazon.com/images/M/MV5BNmQxZTNiODYtNzBhYy00MzVlLWJlN2UtNTc4YWZjMDIwMmEzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX800.webp
+imdb: 7.2/10
+imdb_link: https://www.imdb.com/title/tt8847712
+metacritic: 74/100
+metacritic_link: https://www.metacritic.com/movie/the-french-dispatch
+mpaa: R
+quick_look: Charming and highly stylized, this movie has immediately joined my shelf of favorites. Great
+  if you are a Wes Anderson fan or just someone looking for absurdist humor.
+rating: 4
+rotten_tomatoes: 75%
+rotten_tomatoes_link: https://www.rottentomatoes.com/m/the_french_dispatch
+summary: Authors for a New Yorker-esque magazine report on a small town in France
+title: The French Dispatch
+year: 2021
 ---
-
 ## Recommendation
 
 I found this movie very charming and would certainly recommend it. I am a sucker for Wes Anderson films and this was no exception. **The French Dispatch** is very funny without many outright jokes and is visually pleasing in the standard Wes Anderson style. It is made up of several view points and individual stories with a binding narrative that pulls things together just well enough that the movie as a whole feels coherent.
@@ -46,3 +54,4 @@ I felt the storyline where the author recounts his participation in a dinner par
 The story is told in the setting of a section of the magazine, but also in retrospective as spoken by the author on the set of a talk show. The actual content of the story has aspects of live action and cartoon. The cartoon scenes feel nested within the live action for a total depth of 4 levels removed from the viewer. It just makes things a little difficult to follow. That style of storytelling can work: I loved [_If on a Winter's Night a Traveler_](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler) by _Italio Calvino_ which relies heavily on this nesting of view points, but the first chapter of that book is incredibly jarring as you get accustomed to the style.
 
 The section isn't long enough to have time to get over that jarring feeling or to orient yourself. As a stand alone short it might work, but its presence in this larger narrative makes it feel especially awkward tonally. This discordance is the main reason I feel this movie is more of a 4/5 than a perfect [5/7](https://www.dictionary.com/e/memes/5-7/).
+

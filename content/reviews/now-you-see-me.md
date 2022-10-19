@@ -1,16 +1,26 @@
 ---
-title: Now You See Me
-date: 2022-09-11T20:43:17+09:00
+box_office: $117,723,989
+date: 2022-09-11 20:43:17+09:00
 favorite: true
-rating: 4
-imdb: 7.2
-image: https://m.media-amazon.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_SX800.webp
-summary: Four magicians are united by an unknown benefactor to pull off a series of heists
-quick_look: A clever plot and many actual magic tricks make this movie an enjoyable romp. I would recommend it to most people due to the broad appeal of the [illusions](https://youtu.be/X1WSH0VzoaM) and especially to people that like crime movies.
 genres:
-  - Crime
-  - Mystery
-  - Thriller
+- Crime
+- Mystery
+- Thriller
+image: https://m.media-amazon.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_SX800.webp
+imdb: 7.2/10
+imdb_link: https://www.imdb.com/title/tt1670345
+metacritic: 50/100
+metacritic_link: https://www.metacritic.com/movie/now-you-see-me
+mpaa: PG-13
+quick_look: A clever plot and many actual magic tricks make this movie an enjoyable romp. I would recommend
+  it to most people due to the broad appeal of the [illusions](https://youtu.be/X1WSH0VzoaM) and especially
+  to people that like crime movies.
+rating: 4
+rotten_tomatoes: 50%
+rotten_tomatoes_link: https://www.rottentomatoes.com/m/now_you_see_me
+summary: Four magicians are united by an unknown benefactor to pull off a series of heists
+title: Now You See Me
+year: 2013
 ---
 ## Recommendation
 I have seen _Now You See Me_ many times and still haven't gotten bored of it. At a base level, it is a fun crime movie with lots of twists and turns. Layered on top of that, the filmmakers put a lot of effort into making the magic tricks they depict realistic. Even if you ignore the plot, there is all the entertainment of a regular magic show.
@@ -47,3 +57,4 @@ In all likelihood the bank would've frozen the account after the first or second
 The third heist seems straightforward enough, but the point of it was to frame Thaddeus Bradley. To do this, they fill his car with all the money they've stolen, but it's so stuffed-full that it is literally exploding out of all the windows and doors. It's done in such a ridiculous way that it's clear he couldn't actually be responsible. There'd be no possible way of escaping from the scene of the crime with his car in that condition.
 
 In summation, they would've been stopped in their tracks after the first heist. If they _magically_ did get out of jail after the first heist, the second heist would've been reversed or impossible even with the security questions. Finally, they wouldn't have succeeded in framing Thaddeus in the way they went about it. At the end of the day only the bank in France is likely to feel the lasting effects of what they did and that's only if it doesn't have insurance.
+
