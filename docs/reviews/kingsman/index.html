@@ -56,15 +56,15 @@
 </nav>
 </header>
 <main id="content">
-<article class="review">
+<article class="review" itemscope itemtype="https://schema.org/Movie">
   <header class="review-header">
     
       <div class="review-poster">
-        <img src=https://m.media-amazon.com/images/M/MV5BYTM3ZTllNzItNTNmOS00NzJiLTg1MWMtMjMxNDc0NmJhODU5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX800.webp alt="Poster">
+        <img itemprop="image" src=https://m.media-amazon.com/images/M/MV5BYTM3ZTllNzItNTNmOS00NzJiLTg1MWMtMjMxNDc0NmJhODU5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX800.webp alt="Poster">
         
       </div>
     
-    <h1>Kingsman: The Secret Service</h1>
+    <h1 itemprop="name">Kingsman: The Secret Service</h1>
     <h2 class="subtitle-small color:deemphasize" style="margin-top: -30px">August 31, 2022</h2>
     <section class="quicklook">
   <header>
@@ -73,27 +73,32 @@
     </h2>
   </header>
   <div class="quicklook-details">
-    <div class="quicklook-rating">
+    <div class="quicklook-rating" itemprop="review" itemtype="https://schema.org/Review" itemscope>
       <span class="caption">
         Rating
       </span>
-      <span class="numbers-large quicklook-emphasized-color cluster s1">4/5<a href="https://caalden.github.io/film/ratings" class="quicklook-info" title="About my ratings..."><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="feather feather-info"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg></a>
+      <span class="numbers-large quicklook-emphasized-color cluster s1">
+        <span>
+          <span itemprop="ratingValue">4</span>/<span itemprop="bestRating">5</span>
+        </span>
+        <a href="https://caalden.github.io/film/ratings" class="quicklook-info" title="About my ratings..."><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="feather feather-info"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg></a>
       </span>
+      <span itemprop="author" hidden>Campbell Alden</span>
     </div>
     <div class="quicklook-genre-section">
       <span class="caption">Genre</span>
       <div class="quicklook-genre-container">
         
-          <span class="quicklook-emphasized-color quicklook-genre">Action</span>
+          <span itemprop="genre" class="quicklook-emphasized-color quicklook-genre">Action</span>
         
-          <span class="quicklook-emphasized-color quicklook-genre">Adventure</span>
+          <span itemprop="genre" class="quicklook-emphasized-color quicklook-genre">Adventure</span>
         
-          <span class="quicklook-emphasized-color quicklook-genre">Comedy</span>
+          <span itemprop="genre" class="quicklook-emphasized-color quicklook-genre">Comedy</span>
         
       </div>
     </div>
   </div>
-  <p>
+  <p itemprop="description">
     Kingsman has all the elements that make a spy movie fun. It has wall to wall action, futuristic gadgets, secret organizations, and evil plots to destroy the world. More importantly, it has a well written script and interesting cinematography to prop it up. If you can stomach the gratuitous violence, then I highly recommend you add this to your watchlist!
   </p>
 </section>
@@ -128,7 +133,7 @@
     </div>
     <div class="metadetails-column">
       <dt class="caption">Rated</dt>
-      <dd class="numbers">R</dd>
+      <dd class="numbers" itemprop="contentRating">R</dd>
     </div>
     <div class="metadetails-column">
       <dt class="caption">Box Office</dt>

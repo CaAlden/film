@@ -5,26 +5,30 @@
     </h2>
   </header>
   <div class="quicklook-details">
-    <div class="quicklook-rating">
+    <div class="quicklook-rating" itemprop="review" itemtype="https://schema.org/Review" itemscope>
       <span class="caption">
         Rating
       </span>
       <span class="numbers-large quicklook-emphasized-color cluster s1">
-        {{- .Params.rating -}}/5<a href="{{ .Site.BaseURL }}ratings" class="quicklook-info" title="About my ratings...">
+        <span>
+          <span itemprop="ratingValue">{{- .Params.rating -}}</span>/<span itemprop="bestRating">5</span>
+        </span>
+        <a href="{{ .Site.BaseURL }}ratings" class="quicklook-info" title="About my ratings...">
           {{- partial "info.html" . -}}
-          </a>
+        </a>
       </span>
+      <span itemprop="author" hidden>Campbell Alden</span>
     </div>
     <div class="quicklook-genre-section">
       <span class="caption">Genre</span>
       <div class="quicklook-genre-container">
         {{ range $name := .Params.genres }}
-          <span class="quicklook-emphasized-color quicklook-genre">{{$name}}</span>
+          <span itemprop="genre" class="quicklook-emphasized-color quicklook-genre">{{$name}}</span>
         {{end}}
       </div>
     </div>
   </div>
-  <p>
+  <p itemprop="description">
     {{.Params.quick_look | markdownify }}
   </p>
 </section>

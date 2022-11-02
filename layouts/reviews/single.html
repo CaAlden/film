@@ -1,9 +1,9 @@
 {{ define "main" }}
-<article class="review">
+<article class="review" itemscope itemtype="https://schema.org/Movie">
   <header class="review-header">
     {{ if .Params.image }}
       <div class="review-poster">
-        <img src={{.Params.image}} alt="Poster">
+        <img itemprop="image" src={{.Params.image}} alt="Poster">
         {{ if .Params.favorite }}
           <a class="review-favorite" href="{{.Site.BaseURL}}favorites">
             <span hidden>Favorite</span>
@@ -12,7 +12,7 @@
         {{end}}
       </div>
     {{ end }}
-    <h1>{{- .Title -}}</h1>
+    <h1 itemprop="name">{{- .Title -}}</h1>
     <h2 class="subtitle-small color:deemphasize" style="margin-top: -30px">
       {{- .PublishDate | time.Format ":date_long" -}}
     </h2>
