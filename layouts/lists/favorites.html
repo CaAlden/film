@@ -8,8 +8,12 @@
     </header>
     <div class="cards">
       {{ range (where .Site.Pages "Section" "reviews")  }}
-         {{ range (where .Pages ".Params.favorite" "==" true) }}
-            {{- .Render "summary" -}}
+         {{ range $index, $element := (where .Pages ".Params.favorite" "==" true) }}
+            {{ if gt 3 $index}}
+              {{- $element.Render "eager_summary" -}}
+            {{ else }}
+              {{- $element.Render "summary" -}}
+            {{end}}
          {{ end }}
       {{ end }}
     </div>

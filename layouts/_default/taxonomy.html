@@ -5,8 +5,12 @@
       <a class="button button:large" href="{{.Site.BaseURL}}genres">Back to Genres</a>
     </header>
     <div class="cards">
-      {{ range .Pages }}
-        {{- .Render "summary" -}}
+      {{ range $index, $element := .Pages }}
+        {{ if gt 3 $index}}
+          {{- $element.Render "eager_summary" -}}
+        {{ else }}
+          {{- $element.Render "summary" -}}
+        {{end}}
       {{ end }}
     </div>
   </section>
