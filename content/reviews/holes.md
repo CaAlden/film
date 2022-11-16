@@ -19,7 +19,7 @@ quick_look: With a compelling story and a fun blending of historical western sty
 rating: 3
 rotten_tomatoes: 78%
 rotten_tomatoes_link: https://www.rottentomatoes.com/m/holes
-summary: A boy is sent to a juvenile work camp as punishment after being mistakenly arrested.
+summary: A boy is sent to a juvenile work camp as punishment after being mistakenly arrested
 title: Holes
 year: 2003
 ---
