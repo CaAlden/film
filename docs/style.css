@@ -245,6 +245,15 @@ a:hover {
 .unstyled-list {
   list-style: none;
 }
+.unstyled-link {
+  unset: all;
+  color: inherit;
+  text-decoration: none;
+}
+.unstyled-link:hover {
+  color: inherit;
+}
+
 .navbar {
   display: flex;
 }
