@@ -2,31 +2,31 @@
   --title-font-family: 'Merriweather', serif;
   --title-font-weight: 700;
   --title-font-line-height: 1.25;
-  --title-font-size: 64px;
+  --title-font-size: min(40px + 2vw, 64px);
   --title-font-letter-spacing: -0.04em;
 
   --h2-font-family: 'Merriweather', serif;
   --h2-font-weight: 700;
   --h2-font-line-height: 1.2;
-  --h2-font-size: 40px;
+  --h2-font-size: min(28px + 1vw, 40px);
   --h2-font-letter-spacing: -0.02em;
 
   --subtitle-font-family: 'Rufina', serif;
   --subtitle-font-weight: 700;
   --subtitle-font-line-height: 1.25;
-  --subtitle-font-size: 24px;
+  --subtitle-font-size: min(24px, 20px + 1vw);
   --subtitle-font-letter-spacing: -0.02em;
 
   --subtitle-small-font-family: 'Rufina', serif;
   --subtitle-small-font-weight: 400;
   --subtitle-small-line-height: 1.25;
-  --subtitle-small-font-size: 20px;
+  --subtitle-small-font-size: min(16px + 1vw, 20px);
   --subtitle-small-font-letter-spacing: -0.02em;
 
   --body-font-family: 'Inika', serif;
   --body-font-weight: 400;
   --body-font-line-height: 1.625;
-  --body-font-size: 16px;
+  --body-font-size: min(13px + 1vw, 16px);
   --body-font-letter-spacing: 0.04em;
 
   --caption-font-family: 'Inika', serif;
@@ -45,9 +45,9 @@
   --numbers-font-family: 'Monaco', sans-serif;
   --numbers-font-weight: 400;
   --numbers-font-line-height: 1.2;
-  --numbers-font-size: 16px;
+  --numbers-font-size: min(13px + 1vw, 16px);
   --numbers-font-size-small: 12px;
-  --numbers-font-size-large: 40px;
+  --numbers-font-size-large: min(28px + 1vw, 40px);
   --numbers-font-letter-spacing: -0.02em;
 
   --color-primary: #FFFFFF;
