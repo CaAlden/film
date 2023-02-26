@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023 Campbell Alden, All rights reserved.</copyright>
-    <lastBuildDate>Wed, 14 Sep 2022 22:09:07 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/adventure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 14:26:59 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/adventure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mission: Impossible</title>
+      <link>https://caalden.github.io/film/reviews/mission-impossible/</link>
+      <pubDate>Sat, 25 Feb 2023 14:26:59 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/reviews/mission-impossible/</guid>
+      <description>An American spy must pull off an &amp;lsquo;impossible&amp;rsquo; heist after his team is betrayed</description>
+    </item>
+    
     <item>
       <title>Now You See Me 2</title>
       <link>https://caalden.github.io/film/reviews/now-you-see-me-2/</link>
