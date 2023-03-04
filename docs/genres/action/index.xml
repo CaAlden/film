@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023 Campbell Alden, All rights reserved.</copyright>
-    <lastBuildDate>Sat, 25 Feb 2023 14:26:59 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/action/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 11:37:31 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/action/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mission: Impossible III</title>
+      <link>https://caalden.github.io/film/reviews/mission-impossible-3/</link>
+      <pubDate>Sun, 26 Feb 2023 11:37:31 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/reviews/mission-impossible-3/</guid>
+      <description>Ethan Hunt is pulled out of retirement to stop the biggest bad yet</description>
+    </item>
+    
+    <item>
+      <title>Mission: Impossible II</title>
+      <link>https://caalden.github.io/film/reviews/mission-impossible-2/</link>
+      <pubDate>Sun, 26 Feb 2023 11:09:04 +0900</pubDate>
+      
+      <guid>https://caalden.github.io/film/reviews/mission-impossible-2/</guid>
+      <description>Ethan Hunt is back to stop a rouge IMF agent from unleashing a deadly virus</description>
+    </item>
+    
     <item>
       <title>Mission: Impossible</title>
       <link>https://caalden.github.io/film/reviews/mission-impossible/</link>
