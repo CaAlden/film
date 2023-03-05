@@ -23,7 +23,7 @@ year: 2000
 ## Recommendation
 This is another one that I don't think I recommend to people who aren't looking to binge the series. It's not a bad film, it's fine, but it's also not special. Like [the first film](/film/reviews/mission-impossible), I can suggest a watch for context, since this movie builds out the characters and the IMF a bit more.
 
-I also can fully recommend skipping this movie. My recommendation for the first movie also applies to this one: if you're looking for a spy movie or even specifically a _Mission: Impossible_ movie, there are better options available to you in the series ([_Mission: Impossible III_](/film/reviews/mission-impossible-iii) or better yet [_Mission: Impossible - Fallout_](/film/reviews/mission-impossible-fallout)).
+I also can fully recommend skipping this movie. My recommendation for the first movie also applies to this one: if you're looking for a spy movie or even specifically a _Mission: Impossible_ movie, there are better options available to you in the series ([_Mission: Impossible III_](/film/reviews/mission-impossible-3) or better yet [_Mission: Impossible - Fallout_](/film/reviews/mission-impossible-fallout)).
 
 ## Thoughts
 
