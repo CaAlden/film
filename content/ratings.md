@@ -1,6 +1,5 @@
 ---
 title: Explaining My Ratings
-date: 2022-10-12:08:30+09:00
 description: Rather than a normal rating system, my rating is based on how likely I am to recommend a movie.
 ---
 You may have noticed that my ratings for movies on this site don't line up with other sites. In some cases, my rating may not line up exactly with my full opinion of the movie. That's because I'm not rating the _quality_ of the movie directly. I'm rating _how strongly I recommend you watch the movie_.

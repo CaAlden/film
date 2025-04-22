@@ -1,6 +1,5 @@
 ---
 title: "About"
-date: 2022-08-21:08:30+09:00
 description: A quick burb about why I made this blog
 ---
 This is a blog that I’ve wanted to start for a long time! I create it with two goals in mind.

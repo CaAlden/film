@@ -6,7 +6,7 @@ genres:
 - Action
 - Comedy
 - Drama
-image: https://m.media-amazon.com/images/M/MV5BNzM1ODI4Y2UtMGYxMS00OTUxLWE4NzItNjgxMTM2NzRjZThkXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_SX800.webp
+image: https://m.media-amazon.com/images/M/MV5BYzhiMDlkNWMtZGJjMy00YTIxLTgzM2QtNWQ5MDlkODk5YTdkXkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg
 imdb: 5.8/10
 imdb_link: https://www.imdb.com/title/tt2935622
 metacritic: 30/100

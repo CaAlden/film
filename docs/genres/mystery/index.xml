@@ -4,18 +4,17 @@
     <title>Mystery on CaAlden: Films</title>
     <link>https://caalden.github.io/film/genres/mystery/</link>
     <description>Recent content in Mystery on CaAlden: Films</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2023 Campbell Alden, All rights reserved.</copyright>
-    <lastBuildDate>Sun, 11 Sep 2022 20:43:17 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/mystery/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Sep 2022 20:43:17 +0900</lastBuildDate>
+    <atom:link href="https://caalden.github.io/film/genres/mystery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Now You See Me</title>
       <link>https://caalden.github.io/film/reviews/now-you-see-me/</link>
       <pubDate>Sun, 11 Sep 2022 20:43:17 +0900</pubDate>
-      
       <guid>https://caalden.github.io/film/reviews/now-you-see-me/</guid>
       <description>Four magicians are united by an unknown benefactor to pull off a series of heists</description>
     </item>
-    
   </channel>
 </rss>

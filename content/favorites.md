@@ -1,7 +1,6 @@
 ---
 title: Favorites
 description: A list of my favorite movies
-date: 2022-10-16:17:30+09:00
 type: lists
 layout: favorites
 ---

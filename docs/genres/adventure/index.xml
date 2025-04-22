@@ -4,72 +4,59 @@
     <title>Adventure on CaAlden: Films</title>
     <link>https://caalden.github.io/film/genres/adventure/</link>
     <description>Recent content in Adventure on CaAlden: Films</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2023 Campbell Alden, All rights reserved.</copyright>
-    <lastBuildDate>Sun, 26 Feb 2023 12:05:44 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/adventure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 12:05:44 +0900</lastBuildDate>
+    <atom:link href="https://caalden.github.io/film/genres/adventure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mission: Impossible - Fallout</title>
       <link>https://caalden.github.io/film/reviews/mission-impossible-fallout/</link>
       <pubDate>Sun, 26 Feb 2023 12:05:44 +0900</pubDate>
-      
       <guid>https://caalden.github.io/film/reviews/mission-impossible-fallout/</guid>
       <description>Ethan and the team race to prevent old foes from enacting a nuclear disaster</description>
     </item>
-    
     <item>
       <title>Mission: Impossible III</title>
       <link>https://caalden.github.io/film/reviews/mission-impossible-3/</link>
       <pubDate>Sun, 26 Feb 2023 11:37:31 +0900</pubDate>
-      
       <guid>https://caalden.github.io/film/reviews/mission-impossible-3/</guid>
       <description>Ethan Hunt is pulled out of retirement to stop the biggest bad yet</description>
     </item>
-    
     <item>
       <title>Mission: Impossible II</title>
       <link>https://caalden.github.io/film/reviews/mission-impossible-2/</link>
       <pubDate>Sun, 26 Feb 2023 11:09:04 +0900</pubDate>
-      
       <guid>https://caalden.github.io/film/reviews/mission-impossible-2/</guid>
       <description>Ethan Hunt is back to stop a rouge IMF agent from unleashing a deadly virus</description>
     </item>
-    
     <item>
       <title>Mission: Impossible</title>
       <link>https://caalden.github.io/film/reviews/mission-impossible/</link>
       <pubDate>Sat, 25 Feb 2023 14:26:59 +0900</pubDate>
-      
       <guid>https://caalden.github.io/film/reviews/mission-impossible/</guid>
       <description>An American spy must pull off an &amp;lsquo;impossible&amp;rsquo; heist after his team is betrayed</description>
     </item>
-    
     <item>
       <title>Now You See Me 2</title>
       <link>https://caalden.github.io/film/reviews/now-you-see-me-2/</link>
       <pubDate>Wed, 14 Sep 2022 22:09:07 +0900</pubDate>
-      
       <guid>https://caalden.github.io/film/reviews/now-you-see-me-2/</guid>
       <description>A group of magicians are coerced into pulling off another heist</description>
     </item>
-    
     <item>
       <title>Holes</title>
       <link>https://caalden.github.io/film/reviews/holes/</link>
       <pubDate>Fri, 02 Sep 2022 17:54:55 +0900</pubDate>
-      
       <guid>https://caalden.github.io/film/reviews/holes/</guid>
       <description>A boy is sent to a juvenile work camp as punishment after being mistakenly arrested</description>
     </item>
-    
     <item>
       <title>Kingsman: The Secret Service</title>
       <link>https://caalden.github.io/film/reviews/kingsman/</link>
       <pubDate>Wed, 31 Aug 2022 21:52:25 +0900</pubDate>
-      
       <guid>https://caalden.github.io/film/reviews/kingsman/</guid>
       <description>A secret British spy agency unravels a billionaire&amp;rsquo;s evil plot</description>
     </item>
-    
   </channel>
 </rss>

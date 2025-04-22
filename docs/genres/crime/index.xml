@@ -4,45 +4,38 @@
     <title>Crime on CaAlden: Films</title>
     <link>https://caalden.github.io/film/genres/crime/</link>
     <description>Recent content in Crime on CaAlden: Films</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2023 Campbell Alden, All rights reserved.</copyright>
-    <lastBuildDate>Sat, 18 Feb 2023 13:02:20 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/crime/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Feb 2023 13:02:20 +0900</lastBuildDate>
+    <atom:link href="https://caalden.github.io/film/genres/crime/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O Brother, Where Art Thou?</title>
       <link>https://caalden.github.io/film/reviews/o-brother-where-art-thou/</link>
       <pubDate>Sat, 18 Feb 2023 13:02:20 +0900</pubDate>
-      
       <guid>https://caalden.github.io/film/reviews/o-brother-where-art-thou/</guid>
       <description>Three escaped convicts seek their stashed treasure in dustbowl Mississippi</description>
     </item>
-    
     <item>
       <title>John Wick</title>
       <link>https://caalden.github.io/film/reviews/john-wick/</link>
       <pubDate>Wed, 16 Nov 2022 17:40:52 +0900</pubDate>
-      
       <guid>https://caalden.github.io/film/reviews/john-wick/</guid>
       <description>A man dismantles an entire criminal syndicate that stands between him and his revenge</description>
     </item>
-    
     <item>
       <title>Now You See Me</title>
       <link>https://caalden.github.io/film/reviews/now-you-see-me/</link>
       <pubDate>Sun, 11 Sep 2022 20:43:17 +0900</pubDate>
-      
       <guid>https://caalden.github.io/film/reviews/now-you-see-me/</guid>
       <description>Four magicians are united by an unknown benefactor to pull off a series of heists</description>
     </item>
-    
     <item>
       <title>Beverly Hills Cop</title>
       <link>https://caalden.github.io/film/reviews/beverly-hills-cop/</link>
       <pubDate>Wed, 07 Sep 2022 15:34:14 +0900</pubDate>
-      
       <guid>https://caalden.github.io/film/reviews/beverly-hills-cop/</guid>
       <description>A Detroit cop comes to Beverly Hills to find the man who murdered his friend</description>
     </item>
-    
   </channel>
 </rss>

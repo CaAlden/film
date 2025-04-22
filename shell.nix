@@ -1,7 +1,13 @@
 { pkgs ? import <nixpkgs> {} }:
-with pkgs;
-mkShell {
+let
+  myPython = pkgs.python311.withPackages (ps: with ps; [
+    requests
+    pyyaml
+  ]);
+in
+pkgs.mkShell {
   buildInputs = [
-    hugo
+    pkgs.hugo
+    myPython
   ];
 }

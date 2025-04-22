@@ -4,18 +4,17 @@
     <title>Family on CaAlden: Films</title>
     <link>https://caalden.github.io/film/genres/family/</link>
     <description>Recent content in Family on CaAlden: Films</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2023 Campbell Alden, All rights reserved.</copyright>
-    <lastBuildDate>Sun, 11 Sep 2022 20:43:24 +0900</lastBuildDate><atom:link href="https://caalden.github.io/film/genres/family/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Sep 2022 20:43:24 +0900</lastBuildDate>
+    <atom:link href="https://caalden.github.io/film/genres/family/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Whisper of the Heart</title>
       <link>https://caalden.github.io/film/reviews/whisper-of-the-heart/</link>
       <pubDate>Sun, 11 Sep 2022 20:43:24 +0900</pubDate>
-      
       <guid>https://caalden.github.io/film/reviews/whisper-of-the-heart/</guid>
       <description>A slice of life story about a bookish middle school girl living in Tokyo</description>
     </item>
-    
   </channel>
 </rss>
