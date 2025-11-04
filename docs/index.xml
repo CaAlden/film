@@ -6,9 +6,16 @@
     <description>Recent content on CaAlden: Films</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© 2023 Campbell Alden, All rights reserved.</copyright>
-    <lastBuildDate>Sat, 04 Mar 2023 23:27:55 +0900</lastBuildDate>
+    <copyright>© 2025 Campbell Alden, All rights reserved.</copyright>
+    <lastBuildDate>Tue, 04 Nov 2025 23:29:37 +0900</lastBuildDate>
     <atom:link href="https://caalden.github.io/film/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Greyhound</title>
+      <link>https://caalden.github.io/film/reviews/greyhound/</link>
+      <pubDate>Tue, 04 Nov 2025 23:29:37 +0900</pubDate>
+      <guid>https://caalden.github.io/film/reviews/greyhound/</guid>
+      <description>Short summary (70 characters or so)</description>
+    </item>
     <item>
       <title>The Menu</title>
       <link>https://caalden.github.io/film/reviews/the-menu/</link>

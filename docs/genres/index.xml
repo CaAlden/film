@@ -6,9 +6,30 @@
     <description>Recent content in Genres on CaAlden: Films</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© 2023 Campbell Alden, All rights reserved.</copyright>
-    <lastBuildDate>Sat, 04 Mar 2023 23:27:55 +0900</lastBuildDate>
+    <copyright>© 2025 Campbell Alden, All rights reserved.</copyright>
+    <lastBuildDate>Tue, 04 Nov 2025 23:29:37 +0900</lastBuildDate>
     <atom:link href="https://caalden.github.io/film/genres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drama</title>
+      <link>https://caalden.github.io/film/genres/drama/</link>
+      <pubDate>Tue, 04 Nov 2025 23:29:37 +0900</pubDate>
+      <guid>https://caalden.github.io/film/genres/drama/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>https://caalden.github.io/film/genres/history/</link>
+      <pubDate>Tue, 04 Nov 2025 23:29:37 +0900</pubDate>
+      <guid>https://caalden.github.io/film/genres/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>War</title>
+      <link>https://caalden.github.io/film/genres/war/</link>
+      <pubDate>Tue, 04 Nov 2025 23:29:37 +0900</pubDate>
+      <guid>https://caalden.github.io/film/genres/war/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Horror</title>
       <link>https://caalden.github.io/film/genres/horror/</link>
@@ -49,13 +70,6 @@
       <link>https://caalden.github.io/film/genres/crime/</link>
       <pubDate>Sat, 18 Feb 2023 13:02:20 +0900</pubDate>
       <guid>https://caalden.github.io/film/genres/crime/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Drama</title>
-      <link>https://caalden.github.io/film/genres/drama/</link>
-      <pubDate>Wed, 09 Nov 2022 19:58:32 +0900</pubDate>
-      <guid>https://caalden.github.io/film/genres/drama/</guid>
       <description></description>
     </item>
     <item>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fantasy on CaAlden: Films</title>
+    <link>http://localhost:1313/film/genres/fantasy/</link>
+    <description>Recent content in Fantasy on CaAlden: Films</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2025 Campbell Alden, All rights reserved.</copyright>
+    <lastBuildDate>Thu, 30 Oct 2025 00:37:58 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/film/genres/fantasy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fountain of Youth</title>
+      <link>http://localhost:1313/film/reviews/fountain-of-youth/</link>
+      <pubDate>Thu, 30 Oct 2025 00:37:58 +0900</pubDate>
+      <guid>http://localhost:1313/film/reviews/fountain-of-youth/</guid>
+      <description>An estranged brother and sister reunite on an adventure to find the fountain of youth</description>
+    </item>
+  </channel>
+</rss>

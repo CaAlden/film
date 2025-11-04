@@ -1,5 +1,5 @@
 .review {
-  max-width: calc(70ch + 60px);
+  max-width: calc(80ch + 60px);
   margin: auto;
   display: flex;
   flex-direction: column;
