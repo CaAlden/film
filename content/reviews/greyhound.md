@@ -12,11 +12,11 @@ imdb_link: https://www.imdb.com/title/tt6048922
 metacritic: 64/100
 metacritic_link: https://www.metacritic.com/movie/greyhound
 mpaa: PG-13
-quick_look: Longer blurb about the movie for the top section
+quick_look: Greyhound is a self-contained war story that couples exciting battle sequences with interesting moral dilemmas and a runtime that doesn't overstay it's welcome
 rating: 4
 rotten_tomatoes: 78%
 rotten_tomatoes_link: https://www.rottentomatoes.com/m/greyhound
-summary: Short summary (70 characters or so)
+summary: The captain of a WWII destroyer escorts a convoy across the Atlantic
 title: Greyhound
 year: 2020
 ---
@@ -32,7 +32,7 @@ The stakes are smaller than many war films: only the ships in their convoy, but 
 and how his decisions impact the lives of his men and the non-military vessels under their protection. That's mixed with
 the suspense of the lurking U-boats.
 
-The film's focus isn't on glorifying or condeming the captain's choices and on the impossible calculus that the captain
+The film's focus isn't on glorifying or condemning the captain's choices and on the impossible calculus that the captain
 is confronted with as he wrestles difficult decisions. For me, this movie has the baseline suspense and drama to be
 entertaining, and poses enough difficult questions to leave you wondering what you would decide to do in the same
 scenarios.
