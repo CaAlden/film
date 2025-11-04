@@ -1,7 +1,7 @@
 baseURL = 'https://caalden.github.io/film/'
 languageCode = 'en-us'
 title = 'CaAlden: Films'
-copyright = '© 2023 Campbell Alden, All rights reserved.'
+copyright = '© 2025 Campbell Alden, All rights reserved.'
 [taxonomies]
   genre = 'genres'
 
