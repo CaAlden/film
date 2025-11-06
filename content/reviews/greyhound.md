@@ -23,20 +23,11 @@ year: 2020
 
 # Recommendation
 
-I don't have a lot of deep thoughts on this film, but I wanted to put down a short, spoiler-free recommendation since
-I enjoyed it. _Greyhound_ is a small scale war story that focus on the events of a few days during an Atlantic crossing
-during WWII. The film is short (around 90 minutes) and the action and tension are constant so that the entire thing felt
-over almost too soon.
+I don't have a lot of deep thoughts on this film, but I wanted to put down a short, spoiler-free recommendation since I enjoyed it. _Greyhound_ is a small scale war story that centers on the events of an Atlantic crossing during WWII. The film is short (around 90 minutes) and the action and tension are constant so at no point does it overstay its welcome.
 
-The stakes are smaller than many war films: only the ships in their convoy, but the focus is on the captain
-and how his decisions impact the lives of his men and the non-military vessels under their protection. That's mixed with
-the suspense of the lurking U-boats.
+The stakes are smaller than many war films: only the ships in one convoy, but the focus throughout is on a single captain's decision making. This smaller sense of scale makes the movie feel more grounded in reality, and paints a clearer picture of how those decisions impact the lives of his men and the non-military vessels under his protection.
 
-The film's focus isn't on glorifying or condemning the captain's choices and on the impossible calculus that the captain
-is confronted with as he wrestles difficult decisions. For me, this movie has the baseline suspense and drama to be
-entertaining, and poses enough difficult questions to leave you wondering what you would decide to do in the same
-scenarios.
+The film does not glorify or condemn the captain's choices. Instead, it poses a number of difficult moral questions and shows how his choices lead to consequences: good and bad. 
 
-I would only not recommend this to people that find combat movies uninteresting as that's a large chunk of
-what you're getting. If you enjoy that, then this film also has character drama to go with it and the story is grounded
+I would only not recommend this to people that find combat movies uninteresting as that's a large chunk of what you're getting. If you enjoy that, then this film also has character drama to go with it and the story is grounded
 enough that it's not hard to empathize with.
