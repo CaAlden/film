@@ -1,7 +1,7 @@
 <meta property="og:title" content="{{ .Title }}" />
 {{ if eq .Section "reviews" }}
 <meta property="og:type" content="article" />
-<meta property="og:description" content={{.Summary}}>
+<meta property="og:description" content={{.Params.quick_look}}>
 {{ else }}
   {{ if .Params.description }}
   <meta property="og:description" content="{{.Params.description}}">
